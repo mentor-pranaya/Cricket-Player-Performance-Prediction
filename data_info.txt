@@ -1,0 +1,4 @@
+Using Visual Studio Code
+Data downloaded from - Kaggle
+no. of columns = 20
+no. of rows = 243816
