@@ -1,0 +1,3 @@
+Dataset Description:
+
+The dataset used in this project was collected from Kaggle and consists of two files: matches.csv and deliveries.csv. The matches.csv dataset contains 1095 rows and 20 columns, providing match-level information such as teams, venue, and results. The deliveries.csv dataset contains 260920 rows and 17 columns, offering detailed ball-by-ball information for IPL matches from 2008 to 2024. These datasets were used for exploratory data analysis and feature engineering. All data processing, analysis, and implementation were carried out using Python in Visual Studio Code (VS Code).
