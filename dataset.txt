@@ -1,0 +1,7 @@
+IDE : Google collab
+Dataset source:https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+Daataset :
+Deliveries csv:
+it consists of 18 columns, 260921 rows.
+Matches csv:
+it consits of 20 columns , 1096 rows.
