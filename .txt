@@ -1,1 +1,29 @@
-I will be using Visual Studio Code
+
+
+IDE: Visual Studio Code
+
+Dataset:
+  
+    Name: Cricket Player Performance Prediction
+  
+    Source: Kaggle
+
+Dataset Size:
+
+    Rows: ~500+ match-level player records
+    
+    Columns: ~30 performance features
+
+Data Type:
+
+    Structured tabular data (CSV)
+
+Key Attributes:
+
+    Player Details: Name, team, opponent
+    
+    Batting Statistics: Runs, balls faced, strike rate, average, 4s, 6s
+    
+    Bowling Statistics: Overs, wickets, economy, runs conceded
+    
+    Match Context: Format, date
