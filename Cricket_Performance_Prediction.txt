@@ -1,0 +1,4 @@
+IDE : Google Colab
+DATASET SOURCE : https://www.kaggle.com/datasets/dgsports/ipl-ball-by-ball-2008-to-2022/data
+DATASET	DETAILS : Matches Dataset : 1,169 rows and 28 columns.
+               	: Deliveries Dataset : 278,205 rows and 20 columns.
