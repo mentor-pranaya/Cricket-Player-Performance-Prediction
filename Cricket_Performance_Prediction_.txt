@@ -1,0 +1,8 @@
+IDE : Google Colab
+DATASET SOURCE : https://www.kaggle.com/datasets/dgsports/ipl-ball-by-ball-2008-to-2024?utm_source=chatgpt.com
+DATASET	DETAILS : 
+Deliveries dataset:
+Contains 260,917 rows and ~24 columns, representing ball-by-ball IPL data from 2008 to 2024.
+
+Matches dataset:
+Contains 1,100 rows and ~22 columns, representing match-level IPL information.
