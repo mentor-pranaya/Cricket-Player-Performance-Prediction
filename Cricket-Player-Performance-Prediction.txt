@@ -1,0 +1,51 @@
+### 1. DATASET OVERVIEW ###
+
+Source - Kaggle
+Name - IPL Ball by Ball Dataset (2008-2025)
+Total Rows: 278,205
+Total Columns: 10
+
+Columns: ['Unnamed: 0', 'id', 'batter_name', 'bowler_name', 'non_striker_name', 'batsman_run', 'extra_run', 'total_run', 'batting_team', 'bowling_team']
+
+
+### 2. DATA QUALITY ###
+
+Missing Values: 495
+Duplicate Rows: 0
+Data Types:
+int64     5
+object    5
+
+
+### 3. MATCH STATISTICS ###
+
+Total Matches: 1,169
+Total Balls: 278,205
+Average Balls per Match: 237.99
+
+
+### 4. TEAM STATISTICS ###
+
+Total Teams: 19
+
+### 5. PLAYER STATISTICS ###
+
+Total Batters: 703
+Total Bowlers: 550
+
+### 6. RUNS STATISTICS ###
+
+Total Runs Scored: 355,373
+Overall Strike Rate: 127.74
+Run Rate (per over): 7.66
+
+Key Metrics:
+  Dot Ball %: 34.43%
+  Boundary %: 16.70%
+  Fours: 32,113 | Sixes: 14,353
+
+Key Insights:
+  Dataset contains 1,169 matches with 278,205 balls
+  19 teams and 703 players analyzed
+  Average run rate: 7.66 per over
+  Boundary percentage: 16.70%
