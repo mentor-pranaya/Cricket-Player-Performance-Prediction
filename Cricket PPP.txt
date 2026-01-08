@@ -1,0 +1,7 @@
+﻿IDE- Kaggle notebook
+Dataset Details:  
+                Source:  /kaggle/input/ipl-ball-by-ball-2008-to-2022
+                Rows: 278205
+                Column: 20
+Two csv -deliveries
+                 -matches 
