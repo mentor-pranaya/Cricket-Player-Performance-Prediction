@@ -1,0 +1,2 @@
+https://colab.research.google.com/drive/1E7gYcg83fmfUFFBZOtw-v_EBW9WqPuKz?usp=sharing
+this is my eda code not yed totally completed but almost done.
