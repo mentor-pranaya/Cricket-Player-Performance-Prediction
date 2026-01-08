@@ -1,4 +1,4 @@
-IDE: Visual Studio Code
+IDE: Google Colab
 
 Dataset:
 
