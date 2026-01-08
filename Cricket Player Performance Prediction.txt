@@ -1,0 +1,10 @@
+IDE : Google Colab
+
+Dataset : IPL(2008 - 2025)
+
+Dataset Source : Kaggle
+
+Total Number Of Rows : 278205
+
+Total Number Of Columns : 64
+
