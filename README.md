@@ -28,6 +28,7 @@ IPL_Performance_Prediction/
 │   ├── 00_Data_Cleaning.ipynb  # Pipeline: Raw -> Clean (Fixes teams, standardizes names)
 │   └── 01_EDA.ipynb            # Analysis: Visualizing distributions, outliers, and trends
 └── README.md                # Project documentation
+```
 
 ## 🚀 Milestones
 
@@ -35,4 +36,4 @@ IPL_Performance_Prediction/
 - [ ] **Week 2-4:** Feature Engineering & Preprocessing
 - [ ] **Week 5-6:** Model Development (Random Forest, XGBoost)
 - [ ] **Week 7-8:** Dashboard Deployment
-```
+
