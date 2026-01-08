@@ -1,0 +1,4 @@
+IDE used           : visual studio code
+Dataset source     : kaggle
+No of rows         : 150,459
+No of columns      : 40
