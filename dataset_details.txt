@@ -1,0 +1,13 @@
+Name: Krithana .A
+
+﻿IDE: VS Code
+
+Dataset Source: Kaggle
+
+Dataset:
+IPL Dataset (2008 to 2025)
+ball_by_ball_data (number of Rows: 278,205 & Columns: 30)
+ipl_matches_data (number of Rows: 1,169 & Columns: 23)
+players-data-updated (number of Rows: 772 & Columns: 6)
+team_aliases( number of Rows: 46 & Columns: 3)
+teams_data ( number of Rows: 16 & Columns: 2)
