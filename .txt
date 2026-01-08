@@ -1,18 +1,14 @@
-
-
 IDE: Visual Studio Code
 
 Dataset:
-  
-    Name: Cricket Player Performance Prediction
-  
+
+    Name: International Cricketer Stats (ODI, T20, Test)
     Source: Kaggle
 
 Dataset Size:
 
-    Rows: ~500+ match-level player records
-    
-    Columns: ~30 performance features
+    Rows: ~15,000+ player records
+    Columns: ~40+ performance features
 
 Data Type:
 
@@ -20,10 +16,7 @@ Data Type:
 
 Key Attributes:
 
-    Player Details: Name, team, opponent
-    
-    Batting Statistics: Runs, balls faced, strike rate, average, 4s, 6s
-    
-    Bowling Statistics: Overs, wickets, economy, runs conceded
-    
-    Match Context: Format, date
+    Player Details: Name, country, playing format
+    Batting Statistics: Matches, innings, runs, average, strike rate, 50s, 100s
+    Bowling Statistics: Wickets, overs, economy, bowling average
+    Match Context: Format (ODI / T20 / Test)
