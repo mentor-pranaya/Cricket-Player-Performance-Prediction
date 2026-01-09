@@ -1,0 +1,25 @@
+﻿IDE: Google Colab
+
+Dataset Source: Kaggle
+
+Dataset:
+IPL Dataset (2008 to 2025)
+
+Datasets Used:
+
+1) deliveries_updated_ipl_upto_2025.csv
+
+    Description: Ball-by-ball data for all IPL matches
+    Number of Rows: 278,205
+    Number of Columns: 30
+
+2) matches_updated_ipl_upto_2025.csv
+    Description: Match-level metadata for IPL seasons
+    Number of Rows: 1,169
+    Number of Columns: 23
+
+3) IPL_ball_by_ball_updated.csv
+    Description: Detailed event-level ball-by-ball IPL data.
+    Number of Rows   : 278,205
+    Number of Columns: 30
+
