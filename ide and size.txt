@@ -1,0 +1,25 @@
+I have used Visual Studio Code as IDE.
+
+Dataset Source - https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020
+It consists of ball-by-ball IPL match data used for player performance analysis and prediction.
+
+Dataset Size:
+Rows: ~260,000+ ball-by-ball delivery records
+Matches: 1,000+ IPL matches
+Columns: ~20–25 delivery-level and match-level features
+
+Data Type:
+Structured tabular data (CSV)
+
+Key Attributes:
+Match Details: Match ID, season, venue, teams involved
+Player Details: Batter, bowler
+Batting Statistics: Runs per ball, total runs per innings
+Bowling Statistics: Wickets taken, dismissals
+Match Context: Venue-wise scoring patterns, innings-wise performance
+
+Project Focus:
+Data acquisition and cleaning
+Exploratory Data Analysis (EDA)
+Statistical analysis of runs, wickets, venues, and teams
+Visualization of key IPL performance trends
