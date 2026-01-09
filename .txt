@@ -2,13 +2,14 @@ IDE: Google Colab
 
 Dataset:
 
-    Name: International Cricketer Stats (ODI, T20, Test)
+    Name: IPL Ball-by-Ball Dataset (2008–2024)
     Source: Kaggle
 
 Dataset Size:
 
-    Rows: ~15,000+ player records
-    Columns: ~40+ performance features
+    Rows: ~250,000+ ball-by-ball records
+    Matches: 1,000+ IPL matches
+    Columns: ~20–25 delivery and match-level features
 
 Data Type:
 
@@ -16,7 +17,8 @@ Data Type:
 
 Key Attributes:
 
-    Player Details: Name, country, playing format
-    Batting Statistics: Matches, innings, runs, average, strike rate, 50s, 100s
-    Bowling Statistics: Wickets, overs, economy, bowling average
-    Match Context: Format (ODI / T20 / Test)
+    Match Details: Match ID, season, date, venue
+    Player Details: Batter, bowler, batting team, bowling team
+    Batting Statistics: Runs per ball, boundaries (4s, 6s), strike events
+    Bowling Statistics: Wickets, runs conceded, overs, economy
+    Match Context: Opposition team, venue, match result
