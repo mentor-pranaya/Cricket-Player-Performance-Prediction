@@ -1,0 +1,36 @@
+Name: Adi Charan  
+IDE: Google Colab / VS Code  
+
+Dataset Source: Kaggle (IPL Ball-by-Ball Data)
+
+Datasets Used:
+
+1. deliveries_updated_mens_ipl_upto_2024.csv  
+   • Number of Rows: 260,920  
+   • Number of Columns: 20  
+   • Description: Ball-by-ball IPL data (batsman runs, extras, wickets, teams, bowler info)
+
+2. ball.csv  
+   • Number of Rows: 278,205  
+   • Number of Columns: 30  
+   • Description: Raw IPL ball-by-ball dataset used for validation and feature extraction
+
+3. batsman_match_features (Generated)  
+   • Number of Rows: Varies by player  
+   • Number of Columns: 10  
+   • Description: Batsman-level aggregated features (avg5, avg10, career avg, strike rate)
+
+4. bowler_match_features (Generated)  
+   • Number of Rows: Varies by player  
+   • Number of Columns: 8  
+   • Description: Bowler-level aggregated features (avg5, avg10, career avg, economy etc.)
+
+5. match_dates (Generated)  
+   • Number of Rows: Unique Match IDs  
+   • Number of Columns: 2  
+   • Description: Match and date mapping used for time-series features
+
+6. Model Files  
+   • batsman_runs_model.pkl  
+   • bowler_wickets_model.pkl  
+   • Description: Trained Random Forest models for predicting runs & wickets
