@@ -1,0 +1,21 @@
+IDE : Google Colab Notebook
+
+DATASET  : IPL_Dataset(2008-2025).csv
+            alldatabowling.csv 
+            alldatabatting.csv 
+            [MERGED DATASET]
+           
+
+DATASET	DETAILS : 
+
+IPL DATASET:
+    Number of Rows: 278,205 & Columns: 64)
+
+ALLDATABATTING DATASET:
+    Number of Rows: 240 & Columns: 7)
+
+ALLDATABOWNLING DATASET:
+    Number of Rows: 214 & Columns: 7)
+
+MERGED DATASET:
+    Number of Rows: 278205 & Columns: 76)
