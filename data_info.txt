@@ -1,4 +1,4 @@
-Using Visual Studio Code
+Using Jupyter notebook
 Data downloaded from - Kaggle
 no. of columns = 22
 no. of rows = 260921
