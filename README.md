@@ -78,3 +78,49 @@ Week 1 successfully focused on understanding and exploring the dataset.
 This forms a strong foundation for feature engineering and model building in upcoming weeks.
 
 ---
+
+---
+
+## Week 2: Feature Engineering
+
+### Objective
+The goal of Week 2 is to transform raw cricket match data into meaningful numerical features
+that can be used for training machine learning models.
+
+---
+
+### What was done in Week 2
+
+1. Created player-level performance features from ball-by-ball data
+2. Aggregated batting statistics such as:
+   - Total runs scored
+   - Total balls faced
+   - Number of matches played
+3. Engineered important performance metrics like:
+   - Batting average
+   - Strike rate
+4. Handled missing values created during aggregation
+5. Prepared a clean, model-ready dataset
+
+---
+
+### Why Feature Engineering is Important
+
+Raw data cannot be directly used by machine learning models.
+Feature engineering helps convert cricket match events into numerical signals
+that represent a player's performance and consistency.
+
+---
+
+### Files Used
+
+- `notebooks/02_feature_engineering.ipynb`
+- `notebooks/01_EDA_and_02_Feature_Engineering.ipynb`
+
+---
+
+### Output of Week 2
+
+A clean, structured dataset with engineered features that will be used
+for model training in Week 3.
+
