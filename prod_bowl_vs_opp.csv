@@ -1,0 +1,2185 @@
+player,opponent,vs_opponent_wickets_avg,vs_opponent_economy_avg
+A Ashish Reddy,Chennai Super Kings,1.0,13.333333333333334
+A Ashish Reddy,Delhi Daredevils,0.5,11.0
+A Ashish Reddy,Kings XI Punjab,2.0,9.75
+A Ashish Reddy,Kolkata Knight Riders,1.0,7.25
+A Ashish Reddy,Mumbai Indians,1.0,5.076923076923077
+A Ashish Reddy,Pune Warriors,1.3333333333333333,9.722222222222221
+A Ashish Reddy,Rajasthan Royals,0.0,6.75
+A Ashish Reddy,Royal Challengers Bangalore,1.0,9.81439393939394
+A Kumble,Chennai Super Kings,1.1666666666666667,4.708333333333333
+A Kumble,Deccan Chargers,1.625,7.540178571428571
+A Kumble,Delhi Daredevils,1.0,6.35
+A Kumble,Kings XI Punjab,0.6666666666666666,8.174999999999999
+A Kumble,Kolkata Knight Riders,1.0,5.4
+A Kumble,Mumbai Indians,0.5,8.291666666666666
+A Kumble,Rajasthan Royals,2.0,5.0711289092295955
+A Mishra,Chennai Super Kings,0.875,7.263392857142857
+A Mishra,Deccan Chargers,1.8333333333333333,6.833333333333333
+A Mishra,Delhi Daredevils,0.75,8.645833333333334
+A Mishra,Gujarat Lions,0.5,10.083333333333334
+A Mishra,Gujarat Titans,1.0,4.5
+A Mishra,Kings XI Punjab,1.15,7.979166666666667
+A Mishra,Kochi Tuskers Kerala,1.0,3.0
+A Mishra,Kolkata Knight Riders,1.0,6.9561919504643965
+A Mishra,Mumbai Indians,1.0869565217391304,7.718304713189624
+A Mishra,Pune Warriors,1.6666666666666667,6.466666666666666
+A Mishra,Punjab Kings,0.0,11.5
+A Mishra,Rajasthan Royals,1.619047619047619,7.19155929038282
+A Mishra,Rising Pune Supergiant,1.5,6.166666666666666
+A Mishra,Rising Pune Supergiants,0.5,6.0
+A Mishra,Royal Challengers Bangalore,1.0555555555555556,8.63425925925926
+A Mishra,Sunrisers Hyderabad,0.9285714285714286,7.386904761904762
+A Nehra,Chennai Super Kings,1.625,7.96875
+A Nehra,Deccan Chargers,1.125,8.875
+A Nehra,Delhi Daredevils,1.5,7.637681159420289
+A Nehra,Gujarat Lions,1.0,6.25
+A Nehra,Kings XI Punjab,1.1428571428571428,7.87640056022409
+A Nehra,Kolkata Knight Riders,0.8,7.958333333333333
+A Nehra,Mumbai Indians,1.8181818181818181,8.568181818181818
+A Nehra,Pune Warriors,0.0,6.75
+A Nehra,Rajasthan Royals,1.2222222222222223,6.611111111111111
+A Nehra,Rising Pune Supergiant,1.0,4.285714285714286
+A Nehra,Rising Pune Supergiants,3.0,7.125
+A Nehra,Royal Challengers Bangalore,1.8461538461538463,7.995562130177515
+A Nehra,Sunrisers Hyderabad,0.6666666666666666,7.5
+A Nortje,Chennai Super Kings,1.4285714285714286,9.321428571428571
+A Nortje,Gujarat Titans,1.3333333333333333,11.833333333333334
+A Nortje,Kings XI Punjab,0.0,8.25
+A Nortje,Kolkata Knight Riders,2.1666666666666665,8.154761904761905
+A Nortje,Lucknow Super Giants,0.0,15.0
+A Nortje,Mumbai Indians,1.125,9.823660714285715
+A Nortje,Punjab Kings,1.6666666666666667,7.972222222222221
+A Nortje,Rajasthan Royals,1.3333333333333333,8.625
+A Nortje,Royal Challengers Bangalore,2.0,6.875
+A Nortje,Sunrisers Hyderabad,0.6666666666666666,9.398148148148147
+A Singh,Chennai Super Kings,0.6666666666666666,9.86111111111111
+A Singh,Deccan Chargers,1.5,11.25
+A Singh,Delhi Daredevils,0.75,8.604166666666666
+A Singh,Kings XI Punjab,2.5,4.375
+A Singh,Kochi Tuskers Kerala,1.0,6.5
+A Singh,Kolkata Knight Riders,1.2,7.515714285714286
+A Singh,Mumbai Indians,1.6666666666666667,6.916666666666667
+A Singh,Pune Warriors,0.0,9.666666666666668
+A Singh,Royal Challengers Bangalore,3.0,7.983695652173913
+A Symonds,Chennai Super Kings,1.3333333333333333,6.638888888888889
+A Symonds,Delhi Daredevils,0.8333333333333334,8.541666666666666
+A Symonds,Kings XI Punjab,0.8,9.9
+A Symonds,Kolkata Knight Riders,1.0,7.5
+A Symonds,Mumbai Indians,0.0,9.0
+A Symonds,Pune Warriors,0.0,7.0
+A Symonds,Rajasthan Royals,0.25,9.308823529411764
+A Symonds,Royal Challengers Bangalore,1.0,7.0
+A Zampa,Chennai Super Kings,2.0,9.041666666666668
+A Zampa,Delhi Daredevils,1.6666666666666667,7.916666666666667
+A Zampa,Gujarat Titans,1.0,10.666666666666668
+A Zampa,Kings XI Punjab,1.5,6.869565217391305
+A Zampa,Kolkata Knight Riders,0.0,8.0
+A Zampa,Lucknow Super Giants,1.0,11.5
+A Zampa,Mumbai Indians,1.0,9.729166666666666
+A Zampa,Punjab Kings,1.0,6.5
+A Zampa,Rajasthan Royals,0.5,10.5
+A Zampa,Royal Challengers Bangalore,2.0,7.5
+A Zampa,Sunrisers Hyderabad,3.5,3.875
+AB Agarkar,Chennai Super Kings,0.3333333333333333,8.51388888888889
+AB Agarkar,Deccan Chargers,1.0,10.958333333333334
+AB Agarkar,Delhi Daredevils,0.5,9.083333333333334
+AB Agarkar,Kings XI Punjab,0.8333333333333334,8.555555555555555
+AB Agarkar,Kochi Tuskers Kerala,1.0,5.875
+AB Agarkar,Kolkata Knight Riders,2.0,8.5
+AB Agarkar,Mumbai Indians,0.8571428571428571,8.41904761904762
+AB Agarkar,Rajasthan Royals,0.6666666666666666,9.75
+AB Agarkar,Royal Challengers Bangalore,1.0,9.666666666666668
+AB Dinda,Chennai Super Kings,0.5714285714285714,8.476190476190476
+AB Dinda,Deccan Chargers,1.75,7.625
+AB Dinda,Delhi Daredevils,1.4,8.525
+AB Dinda,Gujarat Lions,3.0,10.0
+AB Dinda,Kings XI Punjab,0.75,8.493055555555555
+AB Dinda,Kolkata Knight Riders,0.25,10.75
+AB Dinda,Mumbai Indians,1.1538461538461537,8.570512820512821
+AB Dinda,Pune Warriors,2.0,10.5
+AB Dinda,Rajasthan Royals,0.7777777777777778,7.1719576719576725
+AB Dinda,Royal Challengers Bangalore,1.375,8.014724310776943
+AB Dinda,Sunrisers Hyderabad,1.5,7.833333333333333
+AD Mathews,Chennai Super Kings,0.25,11.416666666666668
+AD Mathews,Deccan Chargers,1.0,6.5
+AD Mathews,Delhi Daredevils,0.75,10.125
+AD Mathews,Kings XI Punjab,0.6666666666666666,7.305555555555556
+AD Mathews,Kolkata Knight Riders,0.5,7.5555555555555545
+AD Mathews,Mumbai Indians,0.75,7.821428571428571
+AD Mathews,Rajasthan Royals,0.5714285714285714,8.369047619047619
+AD Mathews,Royal Challengers Bangalore,1.0,7.755102040816326
+AD Mathews,Sunrisers Hyderabad,0.25,9.604166666666666
+AD Russell,Chennai Super Kings,0.6428571428571429,10.202380952380953
+AD Russell,Deccan Chargers,0.0,9.75
+AD Russell,Delhi Capitals,0.8888888888888888,10.194444444444445
+AD Russell,Delhi Daredevils,1.6666666666666667,8.222222222222223
+AD Russell,Gujarat Lions,1.0,7.0
+AD Russell,Gujarat Titans,2.0,9.222222222222223
+AD Russell,Kings XI Punjab,1.7777777777777777,11.313973063973064
+AD Russell,Kolkata Knight Riders,0.0,8.0
+AD Russell,Lucknow Super Giants,1.0,12.472222222222221
+AD Russell,Mumbai Indians,1.105263157894737,9.965539414146225
+AD Russell,Punjab Kings,0.6,9.6
+AD Russell,Rajasthan Royals,0.8888888888888888,10.24074074074074
+AD Russell,Rising Pune Supergiants,0.5,6.75
+AD Russell,Royal Challengers Bangalore,0.8571428571428571,10.334183673469388
+AD Russell,Royal Challengers Bengaluru,2.5,7.791666666666666
+AD Russell,Sunrisers Hyderabad,1.35,10.013525641025641
+AJ Tye,Chennai Super Kings,1.0,11.066666666666666
+AJ Tye,Delhi Capitals,1.0,10.916666666666668
+AJ Tye,Delhi Daredevils,1.5,7.875
+AJ Tye,Kings XI Punjab,2.0,8.75
+AJ Tye,Kolkata Knight Riders,2.0,10.166666666666666
+AJ Tye,Mumbai Indians,1.6,8.05
+AJ Tye,Rajasthan Royals,4.0,7.25
+AJ Tye,Rising Pune Supergiant,5.0,4.25
+AJ Tye,Royal Challengers Bangalore,1.0,7.3
+AJ Tye,Sunrisers Hyderabad,0.6666666666666666,7.5
+AR Patel,Chennai Super Kings,0.7222222222222222,7.101851851851851
+AR Patel,Delhi Daredevils,1.1111111111111112,7.630221653878944
+AR Patel,Gujarat Lions,1.5,8.104166666666668
+AR Patel,Gujarat Titans,0.3333333333333333,8.25
+AR Patel,Kings XI Punjab,1.3333333333333333,5.861111111111112
+AR Patel,Kolkata Knight Riders,0.8181818181818182,7.518939393939394
+AR Patel,Lucknow Super Giants,0.2857142857142857,8.714285714285714
+AR Patel,Mumbai Indians,0.6818181818181818,8.397727272727273
+AR Patel,Punjab Kings,1.1428571428571428,6.535714285714286
+AR Patel,Rajasthan Royals,1.0,7.470588235294118
+AR Patel,Rising Pune Supergiant,1.0,6.625
+AR Patel,Rising Pune Supergiants,0.5,9.708333333333332
+AR Patel,Royal Challengers Bangalore,1.0555555555555556,7.069444444444445
+AR Patel,Royal Challengers Bengaluru,1.0,8.583333333333334
+AR Patel,Sunrisers Hyderabad,0.85,7.636666666666666
+AS Joseph,Chennai Super Kings,1.25,8.02840909090909
+AS Joseph,Delhi Capitals,2.0,7.25
+AS Joseph,Kings XI Punjab,0.0,11.0
+AS Joseph,Kolkata Knight Riders,1.0,10.5
+AS Joseph,Lucknow Super Giants,0.0,6.0
+AS Joseph,Mumbai Indians,0.5,11.625
+AS Joseph,Punjab Kings,0.6666666666666666,9.027777777777777
+AS Joseph,Rajasthan Royals,0.0,15.611111111111112
+AS Joseph,Royal Challengers Bangalore,1.0,10.5
+AS Joseph,Sunrisers Hyderabad,4.0,6.011363636363637
+AS Rajpoot,Chennai Super Kings,1.0,6.375
+AS Rajpoot,Delhi Daredevils,2.0,5.75
+AS Rajpoot,Gujarat Lions,1.0,11.666666666666666
+AS Rajpoot,Kings XI Punjab,0.3333333333333333,9.416666666666666
+AS Rajpoot,Kolkata Knight Riders,0.5,10.208333333333332
+AS Rajpoot,Mumbai Indians,0.7777777777777778,11.12037037037037
+AS Rajpoot,Rajasthan Royals,1.5,10.291666666666666
+AS Rajpoot,Rising Pune Supergiants,1.0,7.0
+AS Rajpoot,Royal Challengers Bangalore,0.0,11.270833333333334
+AS Rajpoot,Sunrisers Hyderabad,1.5,6.6875
+Abhishek Sharma,Chennai Super Kings,0.0,5.166666666666667
+Abhishek Sharma,Delhi Capitals,0.3333333333333333,9.194444444444445
+Abhishek Sharma,Gujarat Titans,0.0,15.5
+Abhishek Sharma,Kings XI Punjab,0.5,13.0
+Abhishek Sharma,Kolkata Knight Riders,0.0,11.75
+Abhishek Sharma,Lucknow Super Giants,0.5,12.0
+Abhishek Sharma,Mumbai Indians,0.6666666666666666,6.333333333333333
+Abhishek Sharma,Punjab Kings,2.0,6.0
+Abhishek Sharma,Rajasthan Royals,0.3333333333333333,9.333333333333334
+Abhishek Sharma,Royal Challengers Bangalore,0.3333333333333333,7.9444444444444455
+Abhishek Sharma,Royal Challengers Bengaluru,0.0,10.0
+Ankit Sharma,Chennai Super Kings,0.8333333333333334,8.041666666666666
+Ankit Sharma,Delhi Daredevils,0.0,12.153846153846153
+Ankit Sharma,Gujarat Lions,0.0,16.0
+Ankit Sharma,Kings XI Punjab,1.0,6.75
+Ankit Sharma,Kolkata Knight Riders,0.5,6.708333333333333
+Ankit Sharma,Mumbai Indians,1.0,5.833333333333333
+Ankit Sharma,Pune Warriors,1.0,5.0
+Ankit Sharma,Rajasthan Royals,0.0,8.25
+Ankit Sharma,Royal Challengers Bangalore,0.0,8.527777777777779
+Anureet Singh,Chennai Super Kings,0.3333333333333333,10.862745098039218
+Anureet Singh,Delhi Daredevils,1.0,8.125
+Anureet Singh,Kings XI Punjab,1.0,11.0
+Anureet Singh,Kolkata Knight Riders,1.0,11.28623188405797
+Anureet Singh,Mumbai Indians,1.5,8.875
+Anureet Singh,Rajasthan Royals,2.0,8.25
+Anureet Singh,Royal Challengers Bangalore,0.6666666666666666,7.25
+Anureet Singh,Sunrisers Hyderabad,0.5,9.583333333333334
+Arshdeep Singh,Chennai Super Kings,1.3333333333333333,8.277777777777779
+Arshdeep Singh,Delhi Capitals,0.75,9.729166666666668
+Arshdeep Singh,Gujarat Titans,1.0,8.349358974358974
+Arshdeep Singh,Kolkata Knight Riders,1.3,8.704166666666667
+Arshdeep Singh,Lucknow Super Giants,1.8333333333333333,8.555555555555555
+Arshdeep Singh,Mumbai Indians,1.2222222222222223,9.959339774557165
+Arshdeep Singh,Rajasthan Royals,1.6363636363636365,10.097496706192358
+Arshdeep Singh,Royal Challengers Bangalore,1.0,9.4
+Arshdeep Singh,Royal Challengers Bengaluru,1.1666666666666667,10.333333333333334
+Arshdeep Singh,Sunrisers Hyderabad,1.5454545454545454,7.761019283746557
+Avesh Khan,Chennai Super Kings,1.0,9.539285714285715
+Avesh Khan,Delhi Capitals,0.6,10.5
+Avesh Khan,Delhi Daredevils,1.0,5.75
+Avesh Khan,Gujarat Titans,1.2857142857142858,9.186335403726707
+Avesh Khan,Kings XI Punjab,1.0,9.5
+Avesh Khan,Kolkata Knight Riders,1.625,8.270833333333334
+Avesh Khan,Lucknow Super Giants,0.5,8.75
+Avesh Khan,Mumbai Indians,1.625,8.3125
+Avesh Khan,Punjab Kings,0.6666666666666666,9.857890499194847
+Avesh Khan,Rajasthan Royals,1.8571428571428572,9.023809523809524
+Avesh Khan,Royal Challengers Bangalore,0.4,9.25
+Avesh Khan,Royal Challengers Bengaluru,1.3333333333333333,11.055555555555555
+Avesh Khan,Sunrisers Hyderabad,1.8888888888888888,9.777777777777779
+Azhar Mahmood,Chennai Super Kings,1.6666666666666667,7.25
+Azhar Mahmood,Deccan Chargers,1.0,8.75
+Azhar Mahmood,Delhi Daredevils,0.6666666666666666,8.466666666666667
+Azhar Mahmood,Kolkata Knight Riders,3.0,7.0
+Azhar Mahmood,Mumbai Indians,1.0,7.4375
+Azhar Mahmood,Pune Warriors,2.5,7.625
+Azhar Mahmood,Rajasthan Royals,0.3333333333333333,9.555555555555555
+Azhar Mahmood,Royal Challengers Bangalore,1.6666666666666667,6.523809523809523
+Azhar Mahmood,Sunrisers Hyderabad,1.0,9.391304347826088
+B Kumar,Chennai Super Kings,0.6818181818181818,7.196371610845295
+B Kumar,Deccan Chargers,0.75,6.75
+B Kumar,Delhi Capitals,1.9090909090909092,7.454545454545454
+B Kumar,Delhi Daredevils,0.4166666666666667,7.729166666666667
+B Kumar,Gujarat Lions,2.4,6.75
+B Kumar,Gujarat Titans,1.8,7.5
+B Kumar,Kings XI Punjab,1.5714285714285714,7.109307359307359
+B Kumar,Kolkata Knight Riders,1.1,8.186760461760462
+B Kumar,Lucknow Super Giants,0.8,7.55
+B Kumar,Mumbai Indians,1.1428571428571428,7.035714285714286
+B Kumar,Punjab Kings,1.1818181818181819,8.068181818181818
+B Kumar,Rajasthan Royals,1.05,8.770833333333332
+B Kumar,Rising Pune Supergiant,1.0,9.75
+B Kumar,Rising Pune Supergiants,1.0,5.333333333333333
+B Kumar,Royal Challengers Bangalore,1.0476190476190477,8.09719628197889
+B Kumar,Royal Challengers Bengaluru,0.0,14.5
+B Kumar,Sunrisers Hyderabad,1.6666666666666667,6.5
+B Lee,Chennai Super Kings,0.4,6.75
+B Lee,Deccan Chargers,0.8,6.55
+B Lee,Delhi Daredevils,1.25,7.21875
+B Lee,Kings XI Punjab,1.5,6.625
+B Lee,Kochi Tuskers Kerala,0.5,9.375
+B Lee,Kolkata Knight Riders,0.0,9.75
+B Lee,Mumbai Indians,0.5714285714285714,8.157142857142857
+B Lee,Pune Warriors,0.0,7.0
+B Lee,Rajasthan Royals,1.0,6.678571428571428
+B Lee,Royal Challengers Bangalore,0.25,9.020833333333334
+BA Stokes,Chennai Super Kings,0.8,10.55
+BA Stokes,Delhi Capitals,0.0,12.0
+BA Stokes,Delhi Daredevils,1.0,9.111111111111112
+BA Stokes,Gujarat Lions,0.0,7.5
+BA Stokes,Kings XI Punjab,1.1666666666666667,7.527777777777779
+BA Stokes,Kolkata Knight Riders,0.8,7.003333333333333
+BA Stokes,Lucknow Super Giants,0.0,18.0
+BA Stokes,Mumbai Indians,1.25,7.770833333333334
+BA Stokes,Punjab Kings,0.0,12.0
+BA Stokes,Royal Challengers Bangalore,1.3333333333333333,8.277777777777779
+BA Stokes,Sunrisers Hyderabad,0.5714285714285714,9.5
+BB Sran,Chennai Super Kings,1.0,9.25
+BB Sran,Delhi Daredevils,1.0,10.083333333333334
+BB Sran,Gujarat Lions,0.6666666666666666,8.444444444444445
+BB Sran,Kings XI Punjab,0.0,11.375
+BB Sran,Kolkata Knight Riders,0.7142857142857143,11.261904761904761
+BB Sran,Mumbai Indians,2.5,6.071428571428571
+BB Sran,Rising Pune Supergiants,1.0,6.5
+BB Sran,Royal Challengers Bangalore,1.0,11.333333333333332
+BB Sran,Sunrisers Hyderabad,0.3333333333333333,8.833333333333334
+BJ Hodge,Chennai Super Kings,0.6666666666666666,6.0
+BJ Hodge,Deccan Chargers,1.0,9.222222222222221
+BJ Hodge,Delhi Daredevils,0.0,5.5
+BJ Hodge,Kings XI Punjab,0.3333333333333333,9.166666666666666
+BJ Hodge,Mumbai Indians,1.0,8.083333333333334
+BJ Hodge,Pune Warriors,2.0,7.0
+BJ Hodge,Rajasthan Royals,1.6666666666666667,12.416666666666666
+BJ Hodge,Royal Challengers Bangalore,1.5,9.125
+BJ Hodge,Sunrisers Hyderabad,0.0,3.0
+Basil Thampi,Delhi Capitals,1.5,9.5
+Basil Thampi,Delhi Daredevils,1.5,10.863636363636363
+Basil Thampi,Kings XI Punjab,1.3333333333333333,9.666666666666666
+Basil Thampi,Kolkata Knight Riders,1.0,9.166666666666666
+Basil Thampi,Mumbai Indians,1.5,6.982954545454545
+Basil Thampi,Punjab Kings,2.0,11.75
+Basil Thampi,Rajasthan Royals,0.5,19.5
+Basil Thampi,Rising Pune Supergiant,1.0,7.875
+Basil Thampi,Royal Challengers Bangalore,0.4,9.65
+Basil Thampi,Sunrisers Hyderabad,0.0,10.5
+Bipul Sharma,Chennai Super Kings,0.0,11.0
+Bipul Sharma,Deccan Chargers,1.0,9.5
+Bipul Sharma,Gujarat Lions,1.0,6.0
+Bipul Sharma,Kings XI Punjab,2.0,6.5
+Bipul Sharma,Kochi Tuskers Kerala,2.0,8.0
+Bipul Sharma,Kolkata Knight Riders,0.2857142857142857,8.321428571428571
+Bipul Sharma,Mumbai Indians,1.3333333333333333,7.666666666666667
+Bipul Sharma,Pune Warriors,0.0,15.0
+Bipul Sharma,Rajasthan Royals,0.3333333333333333,8.083333333333334
+Bipul Sharma,Rising Pune Supergiant,1.0,8.625
+Bipul Sharma,Rising Pune Supergiants,0.0,17.0
+Bipul Sharma,Royal Challengers Bangalore,1.25,7.833333333333333
+C Green,Chennai Super Kings,0.75,8.666666666666668
+C Green,Delhi Capitals,1.0,7.375
+C Green,Gujarat Titans,0.2,13.033333333333335
+C Green,Kolkata Knight Riders,1.0,8.583333333333334
+C Green,Lucknow Super Giants,0.6666666666666666,8.5
+C Green,Punjab Kings,0.5,10.8125
+C Green,Rajasthan Royals,0.6666666666666666,8.619883040935674
+C Green,Royal Challengers Bangalore,1.0,11.25
+C Green,Sunrisers Hyderabad,1.0,5.083333333333333
+C Sakariya,Chennai Super Kings,1.6666666666666667,8.583333333333334
+C Sakariya,Delhi Capitals,1.0,8.25
+C Sakariya,Kolkata Knight Riders,1.0,6.388888888888888
+C Sakariya,Lucknow Super Giants,1.0,12.125
+C Sakariya,Mumbai Indians,0.5,9.0
+C Sakariya,Punjab Kings,1.3333333333333333,10.361111111111112
+C Sakariya,Rajasthan Royals,2.0,5.75
+C Sakariya,Royal Challengers Bangalore,0.0,7.375
+C Sakariya,Sunrisers Hyderabad,0.5,8.75
+CH Gayle,Chennai Super Kings,0.6,7.9833333333333325
+CH Gayle,Deccan Chargers,0.3333333333333333,9.666666666666666
+CH Gayle,Delhi Daredevils,0.6,8.1
+CH Gayle,Gujarat Lions,0.0,1.5
+CH Gayle,Kings XI Punjab,0.5,11.083333333333332
+CH Gayle,Kochi Tuskers Kerala,2.0,6.5
+CH Gayle,Kolkata Knight Riders,0.0,7.75
+CH Gayle,Mumbai Indians,0.2,8.658333333333335
+CH Gayle,Pune Warriors,1.3333333333333333,4.666666666666667
+CH Gayle,Rajasthan Royals,0.3333333333333333,11.222222222222221
+CH Gayle,Royal Challengers Bangalore,0.0,8.08695652173913
+CH Gayle,Sunrisers Hyderabad,0.0,8.0
+CH Morris,Chennai Super Kings,1.8333333333333333,7.34469696969697
+CH Morris,Delhi Capitals,0.5,9.25
+CH Morris,Delhi Daredevils,1.5,7.625
+CH Morris,Gujarat Lions,1.5,8.375
+CH Morris,Kings XI Punjab,1.3636363636363635,7.069696969696969
+CH Morris,Kolkata Knight Riders,1.6428571428571428,7.214285714285714
+CH Morris,Mumbai Indians,1.3,8.183333333333334
+CH Morris,Pune Warriors,2.0,6.625
+CH Morris,Punjab Kings,1.0,11.0
+CH Morris,Rajasthan Royals,1.2,9.55
+CH Morris,Rising Pune Supergiant,1.0,9.5
+CH Morris,Rising Pune Supergiants,1.0,6.0
+CH Morris,Royal Challengers Bangalore,1.0,9.537878787878789
+CH Morris,Sunrisers Hyderabad,1.0833333333333333,8.26388888888889
+CJ Anderson,Chennai Super Kings,0.25,12.496212121212121
+CJ Anderson,Delhi Daredevils,1.0,9.0
+CJ Anderson,Gujarat Lions,0.5,10.75
+CJ Anderson,Kings XI Punjab,1.0,8.083333333333332
+CJ Anderson,Kolkata Knight Riders,0.6666666666666666,10.343137254901961
+CJ Anderson,Mumbai Indians,2.0,13.125
+CJ Anderson,Rajasthan Royals,0.0,6.5
+CJ Anderson,Rising Pune Supergiant,0.0,7.0
+CJ Anderson,Royal Challengers Bangalore,0.0,9.5
+CJ Anderson,Sunrisers Hyderabad,1.0,13.25
+CJ Jordan,Chennai Super Kings,1.0,10.333333333333334
+CJ Jordan,Delhi Capitals,1.0,12.25
+CJ Jordan,Delhi Daredevils,1.0,5.0
+CJ Jordan,Gujarat Lions,3.5,5.083333333333334
+CJ Jordan,Gujarat Titans,0.0,12.543478260869565
+CJ Jordan,Kings XI Punjab,0.0,10.916666666666666
+CJ Jordan,Kolkata Knight Riders,0.8,7.966666666666667
+CJ Jordan,Lucknow Super Giants,0.5,8.0
+CJ Jordan,Mumbai Indians,1.0,11.541666666666666
+CJ Jordan,Punjab Kings,3.0,5.75
+CJ Jordan,Rajasthan Royals,1.0,12.571428571428571
+CJ Jordan,Rising Pune Supergiants,2.0,10.75
+CJ Jordan,Royal Challengers Bangalore,0.75,9.104166666666668
+CJ Jordan,Sunrisers Hyderabad,1.75,9.333333333333332
+CR Woakes,Chennai Super Kings,2.0,6.0
+CR Woakes,Delhi Daredevils,0.3333333333333333,8.13888888888889
+CR Woakes,Gujarat Lions,0.5,10.833333333333332
+CR Woakes,Kings XI Punjab,2.0,8.6
+CR Woakes,Kolkata Knight Riders,3.0,9.0
+CR Woakes,Mumbai Indians,1.0,9.416666666666668
+CR Woakes,Punjab Kings,1.0,10.5
+CR Woakes,Rajasthan Royals,2.0,8.625
+CR Woakes,Rising Pune Supergiant,1.5,8.583333333333334
+CR Woakes,Royal Challengers Bangalore,2.0,6.375
+CR Woakes,Sunrisers Hyderabad,2.0,11.875
+CV Varun,Chennai Super Kings,1.2727272727272727,7.0227272727272725
+CV Varun,Delhi Capitals,1.9,7.525
+CV Varun,Gujarat Titans,0.0,10.229166666666666
+CV Varun,Kings XI Punjab,0.5,7.625
+CV Varun,Kolkata Knight Riders,1.0,11.666666666666666
+CV Varun,Lucknow Super Giants,1.0,8.85
+CV Varun,Mumbai Indians,1.0,6.287037037037037
+CV Varun,Punjab Kings,1.25,7.354166666666666
+CV Varun,Rajasthan Royals,1.4444444444444444,7.592592592592592
+CV Varun,Royal Challengers Bangalore,1.75,6.292613636363637
+CV Varun,Royal Challengers Bengaluru,0.6666666666666666,9.916666666666666
+CV Varun,Sunrisers Hyderabad,1.0769230769230769,8.807692307692308
+DE Bollinger,Deccan Chargers,2.25,7.328525641025641
+DE Bollinger,Delhi Daredevils,1.0,8.166666666666666
+DE Bollinger,Kings XI Punjab,0.0,9.75
+DE Bollinger,Kochi Tuskers Kerala,1.5,7.75
+DE Bollinger,Kolkata Knight Riders,1.0,4.875
+DE Bollinger,Mumbai Indians,1.75,8.467391304347826
+DE Bollinger,Pune Warriors,2.3333333333333335,6.75
+DE Bollinger,Rajasthan Royals,1.5,6.0
+DE Bollinger,Royal Challengers Bangalore,1.5,7.708333333333334
+DJ Bravo,Chennai Super Kings,0.8333333333333334,9.166666666666666
+DJ Bravo,Deccan Chargers,1.25,8.361378205128204
+DJ Bravo,Delhi Capitals,1.5,8.125
+DJ Bravo,Delhi Daredevils,0.8571428571428571,7.958333333333333
+DJ Bravo,Gujarat Titans,3.0,5.75
+DJ Bravo,Kings XI Punjab,1.625,7.776041666666667
+DJ Bravo,Kochi Tuskers Kerala,1.0,9.0
+DJ Bravo,Kolkata Knight Riders,1.3157894736842106,8.75334928229665
+DJ Bravo,Lucknow Super Giants,1.0,8.75
+DJ Bravo,Mumbai Indians,1.6363636363636365,7.773809523809524
+DJ Bravo,Pune Warriors,1.25,7.645833333333334
+DJ Bravo,Punjab Kings,1.25,10.541666666666666
+DJ Bravo,Rajasthan Royals,1.3076923076923077,9.628483835005575
+DJ Bravo,Rising Pune Supergiants,1.5,10.375
+DJ Bravo,Royal Challengers Bangalore,1.0434782608695652,8.464738922404825
+DJ Bravo,Sunrisers Hyderabad,1.375,8.0078125
+DJ Hooda,Chennai Super Kings,0.0,10.333333333333334
+DJ Hooda,Delhi Capitals,0.2,8.9
+DJ Hooda,Delhi Daredevils,0.0,6.0
+DJ Hooda,Gujarat Lions,1.0,7.333333333333334
+DJ Hooda,Gujarat Titans,0.5,12.666666666666668
+DJ Hooda,Kings XI Punjab,0.25,11.041666666666666
+DJ Hooda,Kolkata Knight Riders,1.0,8.666666666666666
+DJ Hooda,Mumbai Indians,0.4,6.5
+DJ Hooda,Rajasthan Royals,0.0,18.5
+DJ Hooda,Royal Challengers Bangalore,0.3333333333333333,14.666666666666666
+DJ Hooda,Sunrisers Hyderabad,0.0,7.583333333333333
+DJ Hussey,Chennai Super Kings,0.3333333333333333,8.069444444444445
+DJ Hussey,Deccan Chargers,0.75,8.416666666666666
+DJ Hussey,Delhi Daredevils,0.3333333333333333,9.5
+DJ Hussey,Kings XI Punjab,0.5,9.166666666666666
+DJ Hussey,Kolkata Knight Riders,0.0,11.75
+DJ Hussey,Mumbai Indians,0.0,11.666666666666666
+DJ Hussey,Rajasthan Royals,0.0,13.0
+DJ Hussey,Royal Challengers Bangalore,0.6666666666666666,9.30392156862745
+DL Chahar,Chennai Super Kings,1.0,8.5
+DL Chahar,Delhi Capitals,1.0769230769230769,8.179487179487179
+DL Chahar,Delhi Daredevils,0.6666666666666666,8.61111111111111
+DL Chahar,Gujarat Titans,1.3333333333333333,8.569444444444445
+DL Chahar,Kings XI Punjab,0.2857142857142857,8.833333333333332
+DL Chahar,Kolkata Knight Riders,1.4,9.583333333333332
+DL Chahar,Lucknow Super Giants,0.16666666666666666,10.38888888888889
+DL Chahar,Mumbai Indians,1.0,8.000563539025077
+DL Chahar,Punjab Kings,1.5,9.145833333333334
+DL Chahar,Rajasthan Royals,1.4285714285714286,7.1309523809523805
+DL Chahar,Royal Challengers Bangalore,0.75,7.729166666666666
+DL Chahar,Royal Challengers Bengaluru,0.5,11.875
+DL Chahar,Sunrisers Hyderabad,0.8571428571428571,7.2515664160401
+DL Vettori,Chennai Super Kings,0.8333333333333334,7.367424242424242
+DL Vettori,Deccan Chargers,0.5,7.458333333333333
+DL Vettori,Delhi Daredevils,1.5,6.625
+DL Vettori,Kings XI Punjab,1.1666666666666667,5.641746411483254
+DL Vettori,Kochi Tuskers Kerala,1.5,5.125
+DL Vettori,Kolkata Knight Riders,1.25,7.270833333333334
+DL Vettori,Mumbai Indians,1.5,4.625
+DL Vettori,Pune Warriors,1.0,7.125
+DL Vettori,Rajasthan Royals,0.5,8.6875
+DL Vettori,Royal Challengers Bangalore,0.75,7.875
+DP Nannes,Chennai Super Kings,2.25,6.786184210526316
+DP Nannes,Deccan Chargers,1.0,7.9333333333333345
+DP Nannes,Kings XI Punjab,1.6666666666666667,5.144927536231884
+DP Nannes,Kochi Tuskers Kerala,1.0,10.333333333333334
+DP Nannes,Kolkata Knight Riders,0.75,8.30921052631579
+DP Nannes,Mumbai Indians,1.8,5.65
+DP Nannes,Pune Warriors,0.0,10.5
+DP Nannes,Rajasthan Royals,1.0,7.190476190476191
+DP Nannes,Royal Challengers Bangalore,1.0,7.166666666666667
+DR Smith,Chennai Super Kings,0.0,12.1
+DR Smith,Delhi Daredevils,0.4,9.658333333333335
+DR Smith,Kings XI Punjab,0.75,13.0
+DR Smith,Kolkata Knight Riders,1.3333333333333333,8.5
+DR Smith,Mumbai Indians,0.6,10.05
+DR Smith,Rajasthan Royals,0.2,7.352941176470589
+DR Smith,Rising Pune Supergiant,0.5,6.833333333333333
+DR Smith,Royal Challengers Bangalore,0.8333333333333334,10.916666666666666
+DR Smith,Sunrisers Hyderabad,0.6666666666666666,11.666666666666666
+DS Kulkarni,Chennai Super Kings,1.25,8.90625
+DS Kulkarni,Deccan Chargers,1.0,9.4375
+DS Kulkarni,Delhi Capitals,1.0,12.75
+DS Kulkarni,Delhi Daredevils,0.9285714285714286,8.435924369747898
+DS Kulkarni,Kings XI Punjab,1.0909090909090908,9.818181818181818
+DS Kulkarni,Kolkata Knight Riders,0.7777777777777778,9.40631808278867
+DS Kulkarni,Mumbai Indians,1.3,8.8
+DS Kulkarni,Pune Warriors,0.0,5.0
+DS Kulkarni,Rajasthan Royals,1.3333333333333333,7.25
+DS Kulkarni,Rising Pune Supergiants,0.0,8.333333333333332
+DS Kulkarni,Royal Challengers Bangalore,1.1538461538461537,8.298076923076923
+DS Kulkarni,Sunrisers Hyderabad,0.5714285714285714,7.965686274509804
+DT Christian,Chennai Super Kings,0.6,6.35
+DT Christian,Delhi Capitals,1.0,9.5
+DT Christian,Delhi Daredevils,1.5,8.75
+DT Christian,Gujarat Lions,1.0,9.0
+DT Christian,Kings XI Punjab,1.1428571428571428,7.702380952380952
+DT Christian,Kochi Tuskers Kerala,0.0,4.0
+DT Christian,Kolkata Knight Riders,0.8,10.413333333333332
+DT Christian,Mumbai Indians,0.5454545454545454,9.257575757575758
+DT Christian,Pune Warriors,2.0,5.666666666666666
+DT Christian,Punjab Kings,0.0,11.0
+DT Christian,Rajasthan Royals,0.6666666666666666,9.86111111111111
+DT Christian,Royal Challengers Bangalore,0.6666666666666666,6.083333333333333
+DT Christian,Sunrisers Hyderabad,0.6,6.6637681159420294
+DW Steyn,Chennai Super Kings,0.8333333333333334,7.333333333333333
+DW Steyn,Deccan Chargers,1.5,5.736111111111111
+DW Steyn,Delhi Daredevils,1.6363636363636365,6.2727272727272725
+DW Steyn,Kings XI Punjab,0.6666666666666666,8.17361111111111
+DW Steyn,Kochi Tuskers Kerala,3.0,4.571428571428571
+DW Steyn,Kolkata Knight Riders,1.0769230769230769,7.865384615384615
+DW Steyn,Mumbai Indians,1.1428571428571428,6.75
+DW Steyn,Pune Warriors,1.0,7.223913043478261
+DW Steyn,Rajasthan Royals,1.1818181818181819,5.5
+DW Steyn,Royal Challengers Bangalore,1.0,8.1125
+DW Steyn,Sunrisers Hyderabad,0.5,8.75
+GB Hogg,Chennai Super Kings,2.3333333333333335,5.416666666666667
+GB Hogg,Deccan Chargers,0.0,8.25
+GB Hogg,Delhi Daredevils,1.4,7.85
+GB Hogg,Gujarat Lions,1.0,9.5
+GB Hogg,Kings XI Punjab,0.0,10.75
+GB Hogg,Kolkata Knight Riders,0.5,7.15
+GB Hogg,Mumbai Indians,1.0,8.166666666666666
+GB Hogg,Royal Challengers Bangalore,1.3333333333333333,8.666666666666666
+GB Hogg,Sunrisers Hyderabad,2.0,4.25
+GJ Maxwell,Chennai Super Kings,0.7692307692307693,7.6089743589743595
+GJ Maxwell,Delhi Capitals,0.25,8.204166666666666
+GJ Maxwell,Delhi Daredevils,0.25,7.75
+GJ Maxwell,Gujarat Lions,1.0,10.5
+GJ Maxwell,Gujarat Titans,0.75,9.833333333333334
+GJ Maxwell,Kings XI Punjab,0.0,11.0
+GJ Maxwell,Kolkata Knight Riders,0.45454545454545453,9.984848484848484
+GJ Maxwell,Lucknow Super Giants,1.25,5.395833333333334
+GJ Maxwell,Mumbai Indians,0.3333333333333333,9.36111111111111
+GJ Maxwell,Pune Warriors,0.0,5.0
+GJ Maxwell,Punjab Kings,1.0,7.722222222222222
+GJ Maxwell,Rajasthan Royals,0.2222222222222222,9.481481481481481
+GJ Maxwell,Rising Pune Supergiant,0.0,7.5
+GJ Maxwell,Rising Pune Supergiants,0.0,3.0
+GJ Maxwell,Royal Challengers Bangalore,0.75,9.625
+GJ Maxwell,Sunrisers Hyderabad,0.5,9.141666666666667
+HH Pandya,Chennai Super Kings,0.8461538461538461,7.878205128205129
+HH Pandya,Delhi Capitals,0.5714285714285714,10.178571428571429
+HH Pandya,Delhi Daredevils,0.42857142857142855,7.8809523809523805
+HH Pandya,Gujarat Lions,0.0,11.0
+HH Pandya,Gujarat Titans,0.5,11.895833333333332
+HH Pandya,Kings XI Punjab,0.5,12.041666666666666
+HH Pandya,Kolkata Knight Riders,1.2307692307692308,7.929487179487179
+HH Pandya,Lucknow Super Giants,1.0,9.447916666666666
+HH Pandya,Mumbai Indians,0.5,8.5
+HH Pandya,Punjab Kings,0.75,10.3125
+HH Pandya,Rajasthan Royals,1.1818181818181819,7.76439393939394
+HH Pandya,Rising Pune Supergiant,0.5,12.0
+HH Pandya,Rising Pune Supergiants,0.0,12.5
+HH Pandya,Royal Challengers Bangalore,0.5,9.216666666666665
+HH Pandya,Royal Challengers Bengaluru,1.0,12.125
+HH Pandya,Sunrisers Hyderabad,0.9230769230769231,9.346153846153847
+HV Patel,Chennai Super Kings,1.9090909090909092,8.13430413979613
+HV Patel,Deccan Chargers,0.0,6.5
+HV Patel,Delhi Capitals,1.25,9.770833333333334
+HV Patel,Delhi Daredevils,1.0,7.8055555555555545
+HV Patel,Gujarat Titans,1.0,8.61111111111111
+HV Patel,Kings XI Punjab,1.4,10.283333333333335
+HV Patel,Kolkata Knight Riders,1.2666666666666666,9.405555555555557
+HV Patel,Lucknow Super Giants,1.4285714285714286,10.388198757763975
+HV Patel,Mumbai Indians,1.6875,8.304127506265663
+HV Patel,Pune Warriors,1.0,8.125
+HV Patel,Punjab Kings,2.0,9.1
+HV Patel,Rajasthan Royals,1.8461538461538463,7.858299595141701
+HV Patel,Rising Pune Supergiants,2.0,11.5
+HV Patel,Royal Challengers Bangalore,0.6666666666666666,11.5
+HV Patel,Royal Challengers Bengaluru,1.6666666666666667,10.307971014492754
+HV Patel,Sunrisers Hyderabad,1.1538461538461537,9.576923076923077
+Harbhajan Singh,Chennai Super Kings,1.1428571428571428,6.515873015873017
+Harbhajan Singh,Deccan Chargers,1.25,6.541666666666667
+Harbhajan Singh,Delhi Capitals,1.0,7.416666666666667
+Harbhajan Singh,Delhi Daredevils,1.1578947368421053,7.032456140350877
+Harbhajan Singh,Gujarat Lions,0.75,7.5625
+Harbhajan Singh,Kings XI Punjab,1.0909090909090908,7.810606060606061
+Harbhajan Singh,Kochi Tuskers Kerala,0.0,8.25
+Harbhajan Singh,Kolkata Knight Riders,0.8947368421052632,7.456140350877193
+Harbhajan Singh,Mumbai Indians,0.3333333333333333,6.577898550724638
+Harbhajan Singh,Pune Warriors,1.4,5.133333333333333
+Harbhajan Singh,Rajasthan Royals,1.0,8.51923076923077
+Harbhajan Singh,Rising Pune Supergiant,1.0,5.0
+Harbhajan Singh,Rising Pune Supergiants,1.0,7.125
+Harbhajan Singh,Royal Challengers Bangalore,1.0869565217391304,7.68840579710145
+Harbhajan Singh,Sunrisers Hyderabad,0.6153846153846154,7.679487179487179
+Harmeet Singh,Chennai Super Kings,1.3333333333333333,6.472222222222221
+Harmeet Singh,Delhi Daredevils,1.4,7.066666666666667
+Harmeet Singh,Kolkata Knight Riders,0.5,8.939130434782609
+Harmeet Singh,Mumbai Indians,0.0,14.166666666666668
+Harmeet Singh,Pune Warriors,2.0,7.788888888888889
+Harmeet Singh,Rajasthan Royals,2.0,6.958333333333333
+Harmeet Singh,Royal Challengers Bangalore,0.8333333333333334,9.041666666666666
+Harmeet Singh,Sunrisers Hyderabad,2.0,9.75
+Harpreet Brar,Chennai Super Kings,0.5,9.583333333333334
+Harpreet Brar,Delhi Capitals,1.1428571428571428,9.05952380952381
+Harpreet Brar,Gujarat Titans,0.6666666666666666,7.333333333333333
+Harpreet Brar,Kolkata Knight Riders,0.25,7.875
+Harpreet Brar,Lucknow Super Giants,0.5,6.0
+Harpreet Brar,Mumbai Indians,0.2,9.0
+Harpreet Brar,Rajasthan Royals,0.8,7.2
+Harpreet Brar,Royal Challengers Bangalore,1.2,8.5
+Harpreet Brar,Royal Challengers Bengaluru,1.25,7.875
+Harpreet Brar,Sunrisers Hyderabad,0.8,8.992105263157894
+Harshit Rana,Chennai Super Kings,1.3333333333333333,8.083333333333334
+Harshit Rana,Delhi Capitals,1.0,9.083333333333334
+Harshit Rana,Gujarat Titans,1.0,9.791666666666666
+Harshit Rana,Lucknow Super Giants,1.2,9.91578947368421
+Harshit Rana,Mumbai Indians,1.5,12.666666666666666
+Harshit Rana,Punjab Kings,1.25,12.020833333333332
+Harshit Rana,Rajasthan Royals,1.75,10.375
+Harshit Rana,Royal Challengers Bengaluru,1.3333333333333333,9.555555555555555
+Harshit Rana,Sunrisers Hyderabad,1.3333333333333333,7.680555555555556
+I Sharma,Chennai Super Kings,0.5,10.041666666666666
+I Sharma,Deccan Chargers,0.4,5.966666666666667
+I Sharma,Delhi Capitals,1.0,6.333333333333334
+I Sharma,Delhi Daredevils,1.0,8.208333333333334
+I Sharma,Gujarat Lions,1.0,9.75
+I Sharma,Gujarat Titans,2.5,4.875
+I Sharma,Kings XI Punjab,0.5,8.375
+I Sharma,Kochi Tuskers Kerala,5.0,4.0
+I Sharma,Kolkata Knight Riders,0.7777777777777778,8.481481481481481
+I Sharma,Lucknow Super Giants,2.0,8.75
+I Sharma,Mumbai Indians,1.0625,8.938541666666667
+I Sharma,Pune Warriors,0.25,6.416666666666666
+I Sharma,Punjab Kings,1.5,9.5625
+I Sharma,Rajasthan Royals,0.9285714285714286,9.041666666666666
+I Sharma,Rising Pune Supergiant,0.0,12.0
+I Sharma,Royal Challengers Bangalore,0.7333333333333333,7.873232323232323
+I Sharma,Royal Challengers Bengaluru,1.0,11.916666666666668
+I Sharma,Sunrisers Hyderabad,0.6,8.458333333333332
+IC Pandey,Delhi Daredevils,1.25,7.166666666666666
+IC Pandey,Kings XI Punjab,0.75,8.708333333333334
+IC Pandey,Kolkata Knight Riders,0.75,8.8125
+IC Pandey,Mumbai Indians,0.5,7.354166666666666
+IC Pandey,Rajasthan Royals,0.6666666666666666,5.833333333333333
+IC Pandey,Royal Challengers Bangalore,1.0,9.583333333333334
+IC Pandey,Sunrisers Hyderabad,0.5,8.0
+IK Pathan,Chennai Super Kings,1.0769230769230769,8.724358974358974
+IK Pathan,Deccan Chargers,0.9,8.975
+IK Pathan,Delhi Daredevils,1.25,6.594449934123848
+IK Pathan,Kings XI Punjab,0.6,8.316666666666666
+IK Pathan,Kochi Tuskers Kerala,1.0,8.125
+IK Pathan,Kolkata Knight Riders,0.6923076923076923,7.505244755244755
+IK Pathan,Mumbai Indians,1.2666666666666666,7.33718954248366
+IK Pathan,Pune Warriors,0.8,7.416666666666667
+IK Pathan,Rajasthan Royals,0.9166666666666666,8.294191919191919
+IK Pathan,Royal Challengers Bangalore,1.0769230769230769,8.526303881876638
+IK Pathan,Sunrisers Hyderabad,0.5,5.85
+Imran Tahir,Chennai Super Kings,1.0,6.75
+Imran Tahir,Delhi Capitals,2.0,6.866666666666667
+Imran Tahir,Delhi Daredevils,1.0,6.0
+Imran Tahir,Gujarat Lions,2.6666666666666665,8.666666666666666
+Imran Tahir,Kings XI Punjab,1.3333333333333333,8.03864734299517
+Imran Tahir,Kolkata Knight Riders,1.4285714285714286,8.357142857142858
+Imran Tahir,Mumbai Indians,1.2857142857142858,8.753571428571428
+Imran Tahir,Rajasthan Royals,1.8,7.4
+Imran Tahir,Rising Pune Supergiants,2.0,6.5
+Imran Tahir,Royal Challengers Bangalore,1.5555555555555556,7.055555555555555
+Imran Tahir,Sunrisers Hyderabad,0.8333333333333334,7.319444444444444
+Iqbal Abdulla,Chennai Super Kings,0.5714285714285714,7.711904761904762
+Iqbal Abdulla,Deccan Chargers,2.5,7.25
+Iqbal Abdulla,Delhi Daredevils,1.1111111111111112,7.324074074074074
+Iqbal Abdulla,Gujarat Lions,1.0,9.875
+Iqbal Abdulla,Kings XI Punjab,0.75,7.229166666666666
+Iqbal Abdulla,Kochi Tuskers Kerala,0.0,6.875
+Iqbal Abdulla,Kolkata Knight Riders,1.0,7.0
+Iqbal Abdulla,Mumbai Indians,0.8571428571428571,7.845238095238095
+Iqbal Abdulla,Pune Warriors,1.25,5.916666666666667
+Iqbal Abdulla,Rajasthan Royals,0.8,7.066666666666667
+Iqbal Abdulla,Rising Pune Supergiants,0.0,7.333333333333334
+Iqbal Abdulla,Royal Challengers Bangalore,0.5,6.0
+Iqbal Abdulla,Sunrisers Hyderabad,1.5,8.782608695652174
+J Botha,Chennai Super Kings,0.5,7.125
+J Botha,Deccan Chargers,0.3333333333333333,7.5
+J Botha,Delhi Daredevils,0.3333333333333333,9.583333333333334
+J Botha,Kings XI Punjab,0.75,7.25
+J Botha,Kochi Tuskers Kerala,1.0,4.75
+J Botha,Kolkata Knight Riders,1.2,6.25
+J Botha,Mumbai Indians,1.0,9.75
+J Botha,Pune Warriors,1.3333333333333333,6.083333333333333
+J Botha,Rajasthan Royals,0.0,19.0
+J Botha,Royal Challengers Bangalore,0.5,9.0
+J Botha,Sunrisers Hyderabad,1.0,5.458333333333334
+J Suchith,Chennai Super Kings,0.8,10.55
+J Suchith,Delhi Capitals,1.0,5.25
+J Suchith,Delhi Daredevils,1.0,8.0
+J Suchith,Kings XI Punjab,1.0,9.25
+J Suchith,Kolkata Knight Riders,0.6666666666666666,12.555555555555555
+J Suchith,Punjab Kings,1.0,8.25
+J Suchith,Rajasthan Royals,0.5,8.75
+J Suchith,Royal Challengers Bangalore,1.3333333333333333,7.722222222222221
+J Suchith,Sunrisers Hyderabad,1.5,5.458333333333334
+J Yadav,Chennai Super Kings,1.0,6.166666666666666
+J Yadav,Delhi Capitals,0.8,6.5
+J Yadav,Kings XI Punjab,1.0,5.75
+J Yadav,Lucknow Super Giants,0.0,6.5
+J Yadav,Punjab Kings,0.0,5.0
+J Yadav,Rajasthan Royals,0.0,10.416666666666666
+J Yadav,Rising Pune Supergiants,0.0,6.25
+J Yadav,Royal Challengers Bangalore,0.0,5.0
+J Yadav,Sunrisers Hyderabad,0.4,7.3
+JA Morkel,Chennai Super Kings,1.0,8.166666666666668
+JA Morkel,Deccan Chargers,1.3333333333333333,8.166666666666666
+JA Morkel,Delhi Daredevils,0.9230769230769231,8.237179487179487
+JA Morkel,Gujarat Lions,0.0,15.0
+JA Morkel,Kings XI Punjab,1.2727272727272727,8.424242424242424
+JA Morkel,Kochi Tuskers Kerala,0.0,8.5
+JA Morkel,Kolkata Knight Riders,0.6666666666666666,8.520833333333334
+JA Morkel,Mumbai Indians,1.0909090909090908,7.704545454545454
+JA Morkel,Pune Warriors,1.6666666666666667,8.305555555555555
+JA Morkel,Rajasthan Royals,1.4545454545454546,8.462121212121211
+JA Morkel,Royal Challengers Bangalore,1.25,8.01388888888889
+JA Morkel,Sunrisers Hyderabad,0.0,11.666666666666666
+JC Archer,Chennai Super Kings,1.1428571428571428,5.904761904761905
+JC Archer,Delhi Capitals,2.0,6.625
+JC Archer,Delhi Daredevils,1.0,9.789473684210526
+JC Archer,Gujarat Titans,1.0,9.875
+JC Archer,Kings XI Punjab,1.1666666666666667,7.621212121212121
+JC Archer,Kolkata Knight Riders,0.875,7.577083333333333
+JC Archer,Lucknow Super Giants,1.0,8.0
+JC Archer,Mumbai Indians,1.7142857142857142,7.357142857142857
+JC Archer,Punjab Kings,1.3333333333333333,10.25
+JC Archer,Rajasthan Royals,1.0,8.75
+JC Archer,Royal Challengers Bangalore,0.4,8.822727272727272
+JC Archer,Royal Challengers Bengaluru,1.0,8.625
+JC Archer,Sunrisers Hyderabad,1.2,9.5
+JD Unadkat,Chennai Super Kings,0.8571428571428571,9.742615227909345
+JD Unadkat,Deccan Chargers,2.0,9.0
+JD Unadkat,Delhi Capitals,1.2,8.293333333333333
+JD Unadkat,Delhi Daredevils,2.142857142857143,8.238095238095239
+JD Unadkat,Gujarat Lions,4.0,7.565217391304348
+JD Unadkat,Gujarat Titans,1.0,9.057017543859649
+JD Unadkat,Kings XI Punjab,0.5454545454545454,8.936147186147187
+JD Unadkat,Kochi Tuskers Kerala,2.0,6.25
+JD Unadkat,Kolkata Knight Riders,0.7857142857142857,8.726190476190476
+JD Unadkat,Lucknow Super Giants,0.6666666666666666,8.833333333333334
+JD Unadkat,Mumbai Indians,1.25,8.963541666666666
+JD Unadkat,Pune Warriors,2.0,9.25
+JD Unadkat,Punjab Kings,1.0,11.625
+JD Unadkat,Rajasthan Royals,0.5714285714285714,8.755102040816327
+JD Unadkat,Royal Challengers Bangalore,0.8181818181818182,9.6
+JD Unadkat,Royal Challengers Bengaluru,1.6666666666666667,12.083333333333334
+JD Unadkat,Sunrisers Hyderabad,1.3333333333333333,8.63888888888889
+JH Kallis,Chennai Super Kings,0.7333333333333333,8.327777777777778
+JH Kallis,Deccan Chargers,0.4,8.0
+JH Kallis,Delhi Daredevils,0.8571428571428571,7.892857142857143
+JH Kallis,Kings XI Punjab,0.9090909090909091,8.18939393939394
+JH Kallis,Kochi Tuskers Kerala,1.0,7.0
+JH Kallis,Kolkata Knight Riders,1.0,10.270833333333332
+JH Kallis,Mumbai Indians,0.7272727272727273,8.765151515151514
+JH Kallis,Pune Warriors,1.25,8.9375
+JH Kallis,Rajasthan Royals,0.6363636363636364,6.909090909090909
+JH Kallis,Royal Challengers Bangalore,1.5,5.805555555555556
+JH Kallis,Sunrisers Hyderabad,1.5,8.125
+JJ Bumrah,Chennai Super Kings,0.875,7.468276515151516
+JJ Bumrah,Delhi Capitals,1.9285714285714286,7.071428571428571
+JJ Bumrah,Delhi Daredevils,0.8888888888888888,8.268518518518519
+JJ Bumrah,Gujarat Lions,1.5,9.2375
+JJ Bumrah,Gujarat Titans,1.5,6.75
+JJ Bumrah,Kings XI Punjab,1.6666666666666667,6.256060606060607
+JJ Bumrah,Kolkata Knight Riders,1.5,7.705314009661835
+JJ Bumrah,Lucknow Super Giants,1.25,5.875
+JJ Bumrah,Punjab Kings,1.1666666666666667,6.833333333333333
+JJ Bumrah,Rajasthan Royals,1.3333333333333333,6.45
+JJ Bumrah,Rising Pune Supergiant,1.25,7.3125
+JJ Bumrah,Rising Pune Supergiants,1.5,8.625
+JJ Bumrah,Royal Challengers Bangalore,1.6111111111111112,7.574999999999999
+JJ Bumrah,Royal Challengers Bengaluru,2.5,6.25
+JJ Bumrah,Sunrisers Hyderabad,1.2352941176470589,7.245518207282913
+JO Holder,Chennai Super Kings,1.0,10.444444444444445
+JO Holder,Delhi Capitals,0.3333333333333333,10.115338164251208
+JO Holder,Delhi Daredevils,0.0,9.25
+JO Holder,Gujarat Lions,0.0,7.0
+JO Holder,Gujarat Titans,1.0,10.25
+JO Holder,Kings XI Punjab,2.0,6.75
+JO Holder,Kolkata Knight Riders,1.75,10.829166666666667
+JO Holder,Lucknow Super Giants,1.0,9.5
+JO Holder,Mumbai Indians,1.6,10.492857142857144
+JO Holder,Punjab Kings,1.6666666666666667,6.666666666666667
+JO Holder,Rajasthan Royals,1.5,7.666666666666667
+JO Holder,Royal Challengers Bangalore,1.7142857142857142,8.785714285714286
+JO Holder,Sunrisers Hyderabad,1.5,7.694444444444444
+JP Duminy,Chennai Super Kings,0.25,6.375
+JP Duminy,Delhi Daredevils,0.25,8.770833333333334
+JP Duminy,Gujarat Lions,0.5,5.5
+JP Duminy,Kings XI Punjab,1.0,6.666666666666667
+JP Duminy,Kolkata Knight Riders,0.14285714285714285,9.519047619047617
+JP Duminy,Mumbai Indians,0.4,7.116666666666665
+JP Duminy,Pune Warriors,0.25,9.208333333333332
+JP Duminy,Rajasthan Royals,0.3333333333333333,6.833333333333333
+JP Duminy,Rising Pune Supergiants,0.0,9.0
+JP Duminy,Royal Challengers Bangalore,0.0,8.0625
+JP Duminy,Sunrisers Hyderabad,1.0,8.333333333333332
+JP Faulkner,Chennai Super Kings,1.1666666666666667,8.33459595959596
+JP Faulkner,Delhi Daredevils,1.1,9.0
+JP Faulkner,Kings XI Punjab,1.0,9.899868247694336
+JP Faulkner,Kolkata Knight Riders,1.4,7.7
+JP Faulkner,Mumbai Indians,1.75,9.656785527690701
+JP Faulkner,Pune Warriors,1.6666666666666667,6.916666666666667
+JP Faulkner,Rajasthan Royals,2.0,10.25
+JP Faulkner,Rising Pune Supergiant,1.0,10.588235294117649
+JP Faulkner,Rising Pune Supergiants,0.0,9.25
+JP Faulkner,Royal Challengers Bangalore,0.7142857142857143,9.035714285714286
+JP Faulkner,Sunrisers Hyderabad,1.875,7.65625
+JR Hazlewood,Chennai Super Kings,1.6666666666666667,6.083333333333333
+JR Hazlewood,Delhi Capitals,1.2857142857142858,8.571428571428571
+JR Hazlewood,Gujarat Titans,1.0,10.417701863354038
+JR Hazlewood,Kolkata Knight Riders,2.0,7.583333333333333
+JR Hazlewood,Lucknow Super Giants,3.0,7.333333333333333
+JR Hazlewood,Mumbai Indians,0.75,9.229166666666666
+JR Hazlewood,Punjab Kings,1.1666666666666667,9.646929824561404
+JR Hazlewood,Rajasthan Royals,1.8333333333333333,7.611111111111111
+JR Hazlewood,Royal Challengers Bangalore,0.0,8.5
+JR Hazlewood,Sunrisers Hyderabad,1.6666666666666667,6.861111111111112
+JR Hopes,Chennai Super Kings,0.25,10.0625
+JR Hopes,Deccan Chargers,1.0,9.333333333333334
+JR Hopes,Delhi Daredevils,2.0,2.0
+JR Hopes,Kings XI Punjab,0.5,9.875
+JR Hopes,Kolkata Knight Riders,0.6666666666666666,9.805555555555555
+JR Hopes,Mumbai Indians,0.5,8.875
+JR Hopes,Pune Warriors,1.0,6.5
+JR Hopes,Rajasthan Royals,1.5,8.958333333333334
+JR Hopes,Royal Challengers Bangalore,0.3333333333333333,9.083333333333334
+K Gowtham,Chennai Super Kings,0.0,11.875
+K Gowtham,Delhi Capitals,0.4,7.35
+K Gowtham,Delhi Daredevils,0.5,11.75
+K Gowtham,Kings XI Punjab,1.3333333333333333,6.0
+K Gowtham,Kolkata Knight Riders,1.0,11.125
+K Gowtham,Mumbai Indians,0.2,10.083333333333334
+K Gowtham,Punjab Kings,1.0,7.75
+K Gowtham,Rajasthan Royals,2.0,7.5
+K Gowtham,Royal Challengers Bangalore,0.75,5.4375
+K Gowtham,Sunrisers Hyderabad,0.5,10.125
+K Rabada,Chennai Super Kings,1.0,7.209090909090909
+K Rabada,Delhi Capitals,0.4,11.533333333333333
+K Rabada,Gujarat Lions,3.0,7.0
+K Rabada,Gujarat Titans,1.8,9.4
+K Rabada,Kings XI Punjab,2.2,7.2333333333333325
+K Rabada,Kolkata Knight Riders,1.4,9.493333333333334
+K Rabada,Lucknow Super Giants,1.8,10.35
+K Rabada,Mumbai Indians,1.0714285714285714,8.869047619047619
+K Rabada,Punjab Kings,1.6666666666666667,10.0
+K Rabada,Rajasthan Royals,1.875,8.349431818181818
+K Rabada,Royal Challengers Bangalore,2.2857142857142856,7.214285714285714
+K Rabada,Royal Challengers Bengaluru,2.0,5.75
+K Rabada,Sunrisers Hyderabad,1.5454545454545454,8.905938264633916
+KA Pollard,Chennai Super Kings,0.9375,8.936458333333333
+KA Pollard,Deccan Chargers,1.6,7.95
+KA Pollard,Delhi Capitals,0.4,9.742857142857144
+KA Pollard,Delhi Daredevils,0.5454545454545454,9.345454545454546
+KA Pollard,Gujarat Titans,1.0,6.5
+KA Pollard,Kings XI Punjab,0.38461538461538464,9.638461538461538
+KA Pollard,Kochi Tuskers Kerala,0.0,14.333333333333332
+KA Pollard,Kolkata Knight Riders,0.45454545454545453,8.840909090909092
+KA Pollard,Lucknow Super Giants,2.0,4.0
+KA Pollard,Pune Warriors,1.25,9.020833333333334
+KA Pollard,Punjab Kings,1.0,9.5
+KA Pollard,Rajasthan Royals,0.9285714285714286,9.476190476190476
+KA Pollard,Rising Pune Supergiant,0.0,16.363636363636363
+KA Pollard,Royal Challengers Bangalore,0.9333333333333333,9.727777777777778
+KA Pollard,Sunrisers Hyderabad,0.42857142857142855,8.523809523809524
+KH Pandya,Chennai Super Kings,0.7142857142857143,8.5
+KH Pandya,Delhi Capitals,0.42857142857142855,8.83150183150183
+KH Pandya,Delhi Daredevils,1.2,6.734615384615384
+KH Pandya,Gujarat Lions,1.0,7.125
+KH Pandya,Gujarat Titans,1.0,6.3055555555555545
+KH Pandya,Kings XI Punjab,0.5555555555555556,8.472222222222221
+KH Pandya,Kolkata Knight Riders,0.75,7.9295504385964914
+KH Pandya,Lucknow Super Giants,0.0,7.0
+KH Pandya,Mumbai Indians,1.5,7.916666666666667
+KH Pandya,Punjab Kings,0.8,8.191666666666666
+KH Pandya,Rajasthan Royals,0.5833333333333334,8.458333333333334
+KH Pandya,Rising Pune Supergiant,0.0,7.916666666666667
+KH Pandya,Rising Pune Supergiants,0.0,14.0
+KH Pandya,Royal Challengers Bangalore,0.75,7.041666666666667
+KH Pandya,Royal Challengers Bengaluru,0.0,10.0
+KH Pandya,Sunrisers Hyderabad,0.8571428571428571,8.013157894736842
+KK Ahmed,Chennai Super Kings,1.0,8.068840579710146
+KK Ahmed,Delhi Capitals,1.6666666666666667,8.620098039215685
+KK Ahmed,Gujarat Titans,1.1666666666666667,7.861111111111111
+KK Ahmed,Kings XI Punjab,2.3333333333333335,8.583333333333334
+KK Ahmed,Kolkata Knight Riders,1.0,9.614583333333334
+KK Ahmed,Lucknow Super Giants,1.5,9.5625
+KK Ahmed,Mumbai Indians,1.5,8.884868421052632
+KK Ahmed,Punjab Kings,1.4444444444444444,8.20959595959596
+KK Ahmed,Rajasthan Royals,1.1111111111111112,10.47987117552335
+KK Ahmed,Royal Challengers Bangalore,1.6666666666666667,9.833333333333334
+KK Ahmed,Royal Challengers Bengaluru,1.0,12.138888888888891
+KK Ahmed,Sunrisers Hyderabad,1.3333333333333333,10.5
+KK Cooper,Chennai Super Kings,1.25,8.0625
+KK Cooper,Delhi Daredevils,1.3333333333333333,6.1944444444444455
+KK Cooper,Kings XI Punjab,2.25,7.375
+KK Cooper,Kolkata Knight Riders,3.0,5.375
+KK Cooper,Mumbai Indians,1.3333333333333333,8.763888888888888
+KK Cooper,Pune Warriors,0.5,8.125
+KK Cooper,Royal Challengers Bangalore,0.0,8.75
+KK Cooper,Sunrisers Hyderabad,1.0,9.75
+KV Sharma,Chennai Super Kings,0.625,9.15625
+KV Sharma,Delhi Capitals,1.0,10.233333333333333
+KV Sharma,Delhi Daredevils,1.1428571428571428,6.821428571428571
+KV Sharma,Gujarat Titans,0.3333333333333333,11.055555555555557
+KV Sharma,Kings XI Punjab,0.75,8.21875
+KV Sharma,Kolkata Knight Riders,1.3333333333333333,7.791269841269841
+KV Sharma,Lucknow Super Giants,1.0,11.166666666666666
+KV Sharma,Mumbai Indians,1.0,8.58858543417367
+KV Sharma,Pune Warriors,1.0,4.333333333333333
+KV Sharma,Punjab Kings,2.0,12.0
+KV Sharma,Rajasthan Royals,1.25,8.715909090909092
+KV Sharma,Rising Pune Supergiant,1.0,7.25
+KV Sharma,Royal Challengers Bangalore,0.8571428571428571,8.952380952380953
+KV Sharma,Sunrisers Hyderabad,1.0,10.140056022408965
+Kartik Tyagi,Chennai Super Kings,1.0,10.75
+Kartik Tyagi,Delhi Capitals,0.75,8.875
+Kartik Tyagi,Kings XI Punjab,0.0,11.75
+Kartik Tyagi,Kolkata Knight Riders,1.5,12.0
+Kartik Tyagi,Mumbai Indians,0.6666666666666666,11.573529411764705
+Kartik Tyagi,Punjab Kings,2.0,7.25
+Kartik Tyagi,Royal Challengers Bangalore,0.5,11.4375
+Kartik Tyagi,Sunrisers Hyderabad,0.6666666666666666,10.309941520467836
+Kuldeep Yadav,Chennai Super Kings,0.5,8.875
+Kuldeep Yadav,Delhi Capitals,1.5,8.625
+Kuldeep Yadav,Delhi Daredevils,0.75,9.254166666666666
+Kuldeep Yadav,Gujarat Lions,2.0,7.25
+Kuldeep Yadav,Gujarat Titans,0.7142857142857143,6.535714285714286
+Kuldeep Yadav,Kings XI Punjab,0.75,11.708333333333332
+Kuldeep Yadav,Kolkata Knight Riders,2.0,7.1833333333333345
+Kuldeep Yadav,Lucknow Super Giants,1.4285714285714286,7.624458874458875
+Kuldeep Yadav,Mumbai Indians,0.8333333333333334,9.17361111111111
+Kuldeep Yadav,Punjab Kings,1.2857142857142858,7.845238095238096
+Kuldeep Yadav,Rajasthan Royals,1.0909090909090908,7.515151515151516
+Kuldeep Yadav,Rising Pune Supergiant,1.5,8.25
+Kuldeep Yadav,Royal Challengers Bangalore,0.8571428571428571,9.285714285714286
+Kuldeep Yadav,Royal Challengers Bengaluru,1.0,8.083333333333334
+Kuldeep Yadav,Sunrisers Hyderabad,1.4,8.016666666666667
+L Balaji,Chennai Super Kings,1.1666666666666667,8.625
+L Balaji,Deccan Chargers,1.0,9.923469387755103
+L Balaji,Delhi Daredevils,1.2,7.541666666666667
+L Balaji,Kings XI Punjab,1.2222222222222223,7.777777777777778
+L Balaji,Kochi Tuskers Kerala,0.0,5.75
+L Balaji,Kolkata Knight Riders,1.0,8.688095238095238
+L Balaji,Mumbai Indians,0.5555555555555556,7.814814814814814
+L Balaji,Pune Warriors,1.75,6.919642857142858
+L Balaji,Rajasthan Royals,1.0,8.453703703703702
+L Balaji,Royal Challengers Bangalore,1.5,8.393849206349207
+L Balaji,Sunrisers Hyderabad,2.0,5.375
+LH Ferguson,Chennai Super Kings,1.0,11.708333333333334
+LH Ferguson,Delhi Capitals,1.5714285714285714,7.654761904761904
+LH Ferguson,Gujarat Lions,0.0,11.0
+LH Ferguson,Gujarat Titans,0.0,10.0
+LH Ferguson,Kings XI Punjab,1.0,9.423913043478262
+LH Ferguson,Kolkata Knight Riders,1.0,10.0
+LH Ferguson,Lucknow Super Giants,0.5,7.333333333333333
+LH Ferguson,Mumbai Indians,1.6,8.83
+LH Ferguson,Punjab Kings,2.0,9.194444444444445
+LH Ferguson,Rajasthan Royals,2.0,7.216666666666667
+LH Ferguson,Royal Challengers Bangalore,1.4285714285714286,8.157142857142857
+LH Ferguson,Sunrisers Hyderabad,0.875,10.659722222222221
+LR Shukla,Chennai Super Kings,0.4,8.4
+LR Shukla,Deccan Chargers,1.0,9.0
+LR Shukla,Delhi Daredevils,1.5,7.6
+LR Shukla,Kings XI Punjab,0.3333333333333333,10.166666666666666
+LR Shukla,Kolkata Knight Riders,0.0,9.5
+LR Shukla,Mumbai Indians,0.75,7.645833333333333
+LR Shukla,Rajasthan Royals,0.8,8.5
+LR Shukla,Royal Challengers Bangalore,0.6666666666666666,10.095238095238095
+LR Shukla,Sunrisers Hyderabad,0.0,15.75
+LS Livingstone,Chennai Super Kings,1.0,10.833333333333332
+LS Livingstone,Delhi Capitals,1.5,10.375
+LS Livingstone,Gujarat Titans,0.75,8.6875
+LS Livingstone,Kolkata Knight Riders,0.0,15.5
+LS Livingstone,Lucknow Super Giants,0.5,15.25
+LS Livingstone,Mumbai Indians,0.25,10.875
+LS Livingstone,Rajasthan Royals,0.3333333333333333,7.0
+LS Livingstone,Royal Challengers Bangalore,0.0,11.5
+LS Livingstone,Royal Challengers Bengaluru,0.0,9.333333333333334
+LS Livingstone,Sunrisers Hyderabad,0.0,7.875
+Lalit Yadav,Chennai Super Kings,0.5,13.666666666666666
+Lalit Yadav,Kolkata Knight Riders,1.0,8.666666666666666
+Lalit Yadav,Lucknow Super Giants,0.5,10.625
+Lalit Yadav,Mumbai Indians,0.4,7.1833333333333345
+Lalit Yadav,Punjab Kings,0.5,7.708333333333333
+Lalit Yadav,Rajasthan Royals,0.0,10.25
+Lalit Yadav,Royal Challengers Bangalore,1.0,7.25
+Lalit Yadav,Sunrisers Hyderabad,0.0,20.5
+M Ashwin,Chennai Super Kings,0.4,7.466666666666666
+M Ashwin,Delhi Capitals,0.6,7.783333333333334
+M Ashwin,Delhi Daredevils,0.0,10.333333333333334
+M Ashwin,Gujarat Lions,1.0,7.541666666666667
+M Ashwin,Gujarat Titans,2.0,7.25
+M Ashwin,Kings XI Punjab,3.0,9.0
+M Ashwin,Kolkata Knight Riders,1.0,9.404761904761903
+M Ashwin,Lucknow Super Giants,1.0,8.25
+M Ashwin,Mumbai Indians,0.75,7.395833333333334
+M Ashwin,Punjab Kings,1.0,8.5
+M Ashwin,Rajasthan Royals,0.6,9.766666666666666
+M Ashwin,Royal Challengers Bangalore,1.0,8.277777777777777
+M Ashwin,Sunrisers Hyderabad,0.4,8.05
+M Jansen,Chennai Super Kings,0.6,9.766666666666666
+M Jansen,Delhi Capitals,0.5,11.875
+M Jansen,Gujarat Titans,0.75,10.8125
+M Jansen,Kolkata Knight Riders,1.25,8.056469298245615
+M Jansen,Lucknow Super Giants,1.0,7.375
+M Jansen,Mumbai Indians,1.6666666666666667,11.416666666666666
+M Jansen,Punjab Kings,1.0,7.041666666666666
+M Jansen,Rajasthan Royals,1.0,11.729166666666666
+M Jansen,Royal Challengers Bangalore,3.0,6.625
+M Jansen,Royal Challengers Bengaluru,1.0,5.0
+M Jansen,Sunrisers Hyderabad,0.0,19.5
+M Kartik,Chennai Super Kings,0.3333333333333333,7.87962962962963
+M Kartik,Deccan Chargers,1.0,6.2813852813852815
+M Kartik,Delhi Daredevils,0.16666666666666666,6.013888888888888
+M Kartik,Kings XI Punjab,0.6666666666666666,8.597222222222223
+M Kartik,Kochi Tuskers Kerala,0.0,7.5
+M Kartik,Kolkata Knight Riders,1.0,4.875
+M Kartik,Mumbai Indians,1.0,6.479166666666667
+M Kartik,Pune Warriors,1.5,7.791666666666666
+M Kartik,Rajasthan Royals,0.5,9.604166666666666
+M Kartik,Royal Challengers Bangalore,1.25,7.75
+M Kartik,Sunrisers Hyderabad,1.0,6.875
+M Markande,Chennai Super Kings,1.0,8.133333333333333
+M Markande,Delhi Capitals,1.25,8.25
+M Markande,Delhi Daredevils,0.5,12.25
+M Markande,Gujarat Titans,0.5,10.0
+M Markande,Kings XI Punjab,0.3333333333333333,11.0
+M Markande,Kolkata Knight Riders,1.4,7.716666666666666
+M Markande,Lucknow Super Giants,1.0,13.0
+M Markande,Mumbai Indians,0.0,10.875
+M Markande,Punjab Kings,4.0,3.75
+M Markande,Rajasthan Royals,0.0,10.729166666666666
+M Markande,Royal Challengers Bangalore,1.0,7.75
+M Markande,Royal Challengers Bengaluru,1.5,12.75
+M Markande,Sunrisers Hyderabad,2.0,7.027777777777779
+M Morkel,Chennai Super Kings,1.3333333333333333,7.666666666666667
+M Morkel,Deccan Chargers,1.0,7.5694444444444455
+M Morkel,Delhi Daredevils,2.0,8.875
+M Morkel,Gujarat Lions,0.5,10.321428571428571
+M Morkel,Kings XI Punjab,1.6666666666666667,6.625
+M Morkel,Kochi Tuskers Kerala,2.0,7.083333333333334
+M Morkel,Kolkata Knight Riders,1.4,8.0
+M Morkel,Mumbai Indians,1.4444444444444444,7.222222222222222
+M Morkel,Pune Warriors,1.0,9.75
+M Morkel,Rajasthan Royals,0.6666666666666666,7.416666666666667
+M Morkel,Rising Pune Supergiants,0.0,8.666666666666668
+M Morkel,Royal Challengers Bangalore,1.0909090909090908,7.848484848484848
+M Morkel,Sunrisers Hyderabad,1.5,8.125
+M Muralitharan,Chennai Super Kings,1.3333333333333333,6.333333333333333
+M Muralitharan,Deccan Chargers,0.875,5.302083333333333
+M Muralitharan,Delhi Daredevils,1.125,7.114583333333333
+M Muralitharan,Kings XI Punjab,1.4285714285714286,6.974489795918367
+M Muralitharan,Kolkata Knight Riders,0.7,7.475
+M Muralitharan,Mumbai Indians,1.0,6.8125
+M Muralitharan,Pune Warriors,1.0,8.541062801932368
+M Muralitharan,Rajasthan Royals,0.6666666666666666,8.371345029239766
+M Muralitharan,Royal Challengers Bangalore,1.4285714285714286,5.071428571428571
+M Muralitharan,Sunrisers Hyderabad,1.0,5.583333333333333
+M Pathirana,Delhi Capitals,2.5,7.5625
+M Pathirana,Gujarat Titans,1.8,8.949122807017543
+M Pathirana,Kolkata Knight Riders,0.6666666666666666,8.055555555555555
+M Pathirana,Lucknow Super Giants,2.0,8.4625
+M Pathirana,Mumbai Indians,2.3333333333333335,10.383333333333333
+M Pathirana,Punjab Kings,1.0,10.75
+M Pathirana,Rajasthan Royals,0.75,9.197552447552447
+M Pathirana,Royal Challengers Bangalore,2.0,10.5
+M Pathirana,Royal Challengers Bengaluru,2.5,9.0
+M Pathirana,Sunrisers Hyderabad,1.3333333333333333,7.666666666666667
+M Prasidh Krishna,Chennai Super Kings,0.5,8.208333333333334
+M Prasidh Krishna,Delhi Capitals,1.25,8.641964285714286
+M Prasidh Krishna,Gujarat Titans,0.6666666666666666,10.05952380952381
+M Prasidh Krishna,Kings XI Punjab,1.25,8.375
+M Prasidh Krishna,Kolkata Knight Riders,1.3333333333333333,8.75
+M Prasidh Krishna,Lucknow Super Giants,1.25,8.5625
+M Prasidh Krishna,Mumbai Indians,1.2727272727272727,9.734848484848484
+M Prasidh Krishna,Punjab Kings,1.3333333333333333,11.055555555555555
+M Prasidh Krishna,Rajasthan Royals,1.4285714285714286,8.83095238095238
+M Prasidh Krishna,Royal Challengers Bangalore,0.8888888888888888,8.907407407407408
+M Prasidh Krishna,Royal Challengers Bengaluru,1.0,6.5
+M Prasidh Krishna,Sunrisers Hyderabad,2.0,7.571428571428571
+M Theekshana,Chennai Super Kings,0.0,7.5
+M Theekshana,Delhi Capitals,1.0,7.75
+M Theekshana,Gujarat Titans,1.6,8.85
+M Theekshana,Kolkata Knight Riders,0.8,8.116666666666667
+M Theekshana,Lucknow Super Giants,1.0,8.625
+M Theekshana,Mumbai Indians,0.5,8.875
+M Theekshana,Punjab Kings,1.0,7.833333333333333
+M Theekshana,Rajasthan Royals,0.3333333333333333,7.833333333333333
+M Theekshana,Royal Challengers Bangalore,2.6666666666666665,8.416666666666666
+M Theekshana,Royal Challengers Bengaluru,0.0,8.583333333333334
+M Theekshana,Sunrisers Hyderabad,0.8,8.15
+MA Starc,Chennai Super Kings,1.1428571428571428,7.416666666666667
+MA Starc,Delhi Capitals,1.5,11.333333333333332
+MA Starc,Delhi Daredevils,1.75,7.125
+MA Starc,Gujarat Titans,0.0,14.7
+MA Starc,Kings XI Punjab,1.75,7.0625
+MA Starc,Kolkata Knight Riders,2.0,8.625
+MA Starc,Lucknow Super Giants,2.0,8.6875
+MA Starc,Mumbai Indians,1.5,9.44867149758454
+MA Starc,Punjab Kings,0.0,11.5
+MA Starc,Rajasthan Royals,1.8333333333333333,8.579022988505747
+MA Starc,Royal Challengers Bengaluru,0.75,13.020833333333332
+MA Starc,Sunrisers Hyderabad,2.0,8.333333333333332
+MC Henriques,Chennai Super Kings,1.0,7.0
+MC Henriques,Deccan Chargers,0.5,16.375
+MC Henriques,Delhi Daredevils,0.6666666666666666,9.614672364672364
+MC Henriques,Gujarat Lions,0.2,9.333333333333332
+MC Henriques,Kings XI Punjab,0.9,9.446794871794872
+MC Henriques,Kolkata Knight Riders,0.8888888888888888,8.018518518518519
+MC Henriques,Mumbai Indians,0.3333333333333333,7.097222222222221
+MC Henriques,Pune Warriors,2.0,11.0
+MC Henriques,Rajasthan Royals,1.0,6.055555555555556
+MC Henriques,Rising Pune Supergiant,0.0,4.647058823529411
+MC Henriques,Rising Pune Supergiants,1.0,7.333333333333334
+MC Henriques,Royal Challengers Bangalore,1.3333333333333333,8.26388888888889
+MC Henriques,Sunrisers Hyderabad,0.6666666666666666,9.88888888888889
+MF Maharoof,Deccan Chargers,2.0,9.375
+MF Maharoof,Kings XI Punjab,1.0,9.166666666666668
+MF Maharoof,Kolkata Knight Riders,1.0,8.125
+MF Maharoof,Mumbai Indians,1.5,9.625
+MF Maharoof,Rajasthan Royals,2.3333333333333335,5.972222222222222
+MF Maharoof,Royal Challengers Bangalore,1.6666666666666667,4.916666666666667
+MG Johnson,Chennai Super Kings,1.0,9.333333333333334
+MG Johnson,Delhi Daredevils,0.8333333333333334,9.476608187134504
+MG Johnson,Gujarat Lions,2.0,8.75
+MG Johnson,Kings XI Punjab,2.0,7.25
+MG Johnson,Kolkata Knight Riders,1.5555555555555556,7.838405797101449
+MG Johnson,Mumbai Indians,0.8,8.866666666666665
+MG Johnson,Pune Warriors,2.5,5.125
+MG Johnson,Rajasthan Royals,1.3333333333333333,8.013888888888888
+MG Johnson,Rising Pune Supergiant,2.5,7.5
+MG Johnson,Royal Challengers Bangalore,0.7142857142857143,7.666666666666667
+MG Johnson,Sunrisers Hyderabad,1.1666666666666667,8.416666666666666
+MJ McClenaghan,Chennai Super Kings,1.3333333333333333,8.930555555555555
+MJ McClenaghan,Delhi Capitals,3.0,10.0
+MJ McClenaghan,Delhi Daredevils,1.5,8.0
+MJ McClenaghan,Gujarat Lions,1.5,8.415760869565217
+MJ McClenaghan,Kings XI Punjab,1.25,9.125
+MJ McClenaghan,Kolkata Knight Riders,1.0,7.892857142857143
+MJ McClenaghan,Rajasthan Royals,1.3333333333333333,8.472222222222221
+MJ McClenaghan,Rising Pune Supergiant,0.6666666666666666,9.833333333333334
+MJ McClenaghan,Rising Pune Supergiants,0.5,7.875
+MJ McClenaghan,Royal Challengers Bangalore,1.4444444444444444,9.222222222222221
+MJ McClenaghan,Sunrisers Hyderabad,1.7142857142857142,7.465986394557823
+MJ Santner,Chennai Super Kings,0.5,7.871794871794872
+MJ Santner,Delhi Capitals,2.5,6.75
+MJ Santner,Gujarat Titans,0.2,9.566666666666666
+MJ Santner,Kolkata Knight Riders,1.0,7.5875
+MJ Santner,Lucknow Super Giants,0.5,8.375
+MJ Santner,Mumbai Indians,1.6666666666666667,5.194444444444444
+MJ Santner,Punjab Kings,0.75,6.270833333333333
+MJ Santner,Rajasthan Royals,0.6666666666666666,8.083333333333334
+MJ Santner,Royal Challengers Bangalore,1.0,5.75
+MJ Santner,Royal Challengers Bengaluru,1.0,7.875
+MJ Santner,Sunrisers Hyderabad,0.3333333333333333,8.25
+MM Ali,Chennai Super Kings,0.75,7.4375
+MM Ali,Delhi Capitals,0.8571428571428571,6.6190476190476195
+MM Ali,Delhi Daredevils,1.0,6.25
+MM Ali,Gujarat Titans,0.3333333333333333,7.666666666666667
+MM Ali,Kings XI Punjab,2.0,6.027777777777779
+MM Ali,Kolkata Knight Riders,0.6666666666666666,13.583333333333334
+MM Ali,Lucknow Super Giants,1.2,7.85
+MM Ali,Mumbai Indians,0.8333333333333334,7.184343434343435
+MM Ali,Punjab Kings,0.25,8.666666666666666
+MM Ali,Rajasthan Royals,1.0,8.89153439153439
+MM Ali,Royal Challengers Bangalore,1.0,8.777777777777779
+MM Ali,Sunrisers Hyderabad,0.3333333333333333,7.796296296296297
+MM Patel,Chennai Super Kings,1.125,8.802083333333334
+MM Patel,Deccan Chargers,0.875,8.0
+MM Patel,Delhi Daredevils,1.1,7.041666666666666
+MM Patel,Kings XI Punjab,1.625,8.15625
+MM Patel,Kochi Tuskers Kerala,0.0,5.0
+MM Patel,Kolkata Knight Riders,1.5,6.739583333333334
+MM Patel,Mumbai Indians,1.6666666666666667,7.16304347826087
+MM Patel,Pune Warriors,2.0,5.857142857142858
+MM Patel,Rajasthan Royals,2.0,6.601010101010101
+MM Patel,Royal Challengers Bangalore,1.2222222222222223,7.722222222222222
+MM Patel,Sunrisers Hyderabad,0.0,7.333333333333334
+MM Sharma,Chennai Super Kings,1.7142857142857142,9.44172932330827
+MM Sharma,Delhi Capitals,1.0,13.25
+MM Sharma,Delhi Daredevils,1.1818181818181819,6.7564935064935066
+MM Sharma,Gujarat Lions,1.0,8.0
+MM Sharma,Gujarat Titans,0.0,14.0
+MM Sharma,Kings XI Punjab,1.3333333333333333,9.281045751633988
+MM Sharma,Kolkata Knight Riders,0.9166666666666666,8.263157894736842
+MM Sharma,Lucknow Super Giants,2.0,8.6875
+MM Sharma,Mumbai Indians,1.6666666666666667,9.025221603793032
+MM Sharma,Pune Warriors,3.0,5.25
+MM Sharma,Punjab Kings,1.5,8.4375
+MM Sharma,Rajasthan Royals,0.9090909090909091,7.71969696969697
+MM Sharma,Rising Pune Supergiant,0.0,7.25
+MM Sharma,Rising Pune Supergiants,2.5,7.75
+MM Sharma,Royal Challengers Bangalore,0.5,9.710034013605442
+MM Sharma,Royal Challengers Bengaluru,0.3333333333333333,13.833333333333334
+MM Sharma,Sunrisers Hyderabad,1.7142857142857142,8.999458874458874
+MP Stoinis,Chennai Super Kings,0.3333333333333333,9.236111111111112
+MP Stoinis,Delhi Capitals,0.0,11.5
+MP Stoinis,Delhi Daredevils,1.5,8.5
+MP Stoinis,Gujarat Lions,0.6666666666666666,10.416666666666666
+MP Stoinis,Gujarat Titans,0.6666666666666666,14.055555555555557
+MP Stoinis,Kings XI Punjab,1.0,10.055555555555555
+MP Stoinis,Kolkata Knight Riders,0.8888888888888888,10.838888888888889
+MP Stoinis,Lucknow Super Giants,0.0,12.25
+MP Stoinis,Mumbai Indians,1.0769230769230769,8.990384615384615
+MP Stoinis,Punjab Kings,0.5,8.727272727272728
+MP Stoinis,Rajasthan Royals,0.6666666666666666,9.25925925925926
+MP Stoinis,Rising Pune Supergiant,1.0,9.333333333333334
+MP Stoinis,Royal Challengers Bangalore,0.0,13.5
+MP Stoinis,Royal Challengers Bengaluru,0.5,11.0
+MP Stoinis,Sunrisers Hyderabad,0.42857142857142855,8.670068027210885
+MR Marsh,Chennai Super Kings,1.2,9.416666666666666
+MR Marsh,Deccan Chargers,2.0,8.125
+MR Marsh,Delhi Daredevils,1.0,7.288461538461538
+MR Marsh,Gujarat Lions,0.0,10.0
+MR Marsh,Gujarat Titans,1.0,7.578947368421052
+MR Marsh,Kings XI Punjab,0.6666666666666666,7.233333333333333
+MR Marsh,Kolkata Knight Riders,1.0,9.444444444444445
+MR Marsh,Mumbai Indians,1.0,6.916666666666667
+MR Marsh,Punjab Kings,0.0,17.0
+MR Marsh,Rajasthan Royals,1.0,9.166666666666666
+MR Marsh,Royal Challengers Bangalore,1.2,10.583333333333334
+MR Marsh,Sunrisers Hyderabad,1.6,6.75
+MS Gony,Chennai Super Kings,0.0,14.0
+MS Gony,Deccan Chargers,0.6666666666666666,10.083333333333334
+MS Gony,Delhi Daredevils,0.75,8.875
+MS Gony,Kings XI Punjab,0.75,10.5625
+MS Gony,Kochi Tuskers Kerala,1.0,6.333333333333334
+MS Gony,Kolkata Knight Riders,0.8,9.15
+MS Gony,Mumbai Indians,1.0,8.395833333333334
+MS Gony,Pune Warriors,1.5,7.375
+MS Gony,Rajasthan Royals,0.4,8.8
+MS Gony,Royal Challengers Bangalore,1.3333333333333333,9.222222222222221
+MS Gony,Sunrisers Hyderabad,2.0,6.0
+Mohammad Nabi,Chennai Super Kings,0.0,6.333333333333334
+Mohammad Nabi,Delhi Capitals,0.75,7.75
+Mohammad Nabi,Gujarat Lions,0.0,5.666666666666666
+Mohammad Nabi,Kings XI Punjab,0.25,9.822463768115941
+Mohammad Nabi,Kolkata Knight Riders,1.0,6.875
+Mohammad Nabi,Lucknow Super Giants,1.0,12.0
+Mohammad Nabi,Mumbai Indians,0.8,6.2333333333333325
+Mohammad Nabi,Rajasthan Royals,0.0,15.5
+Mohammad Nabi,Royal Challengers Bangalore,2.0,6.946428571428571
+Mohammad Nabi,Royal Challengers Bengaluru,0.0,7.0
+Mohammed Shami,Chennai Super Kings,1.0,7.880808080808081
+Mohammed Shami,Delhi Capitals,2.0,7.957051282051282
+Mohammed Shami,Gujarat Lions,1.6666666666666667,10.027777777777779
+Mohammed Shami,Gujarat Titans,1.0,11.5
+Mohammed Shami,Kings XI Punjab,0.6,10.45
+Mohammed Shami,Kolkata Knight Riders,1.2666666666666666,7.772222222222222
+Mohammed Shami,Lucknow Super Giants,1.2,7.1
+Mohammed Shami,Mumbai Indians,1.2,8.85
+Mohammed Shami,Punjab Kings,0.75,12.375
+Mohammed Shami,Rajasthan Royals,1.4666666666666666,8.865458937198067
+Mohammed Shami,Rising Pune Supergiant,2.0,9.25
+Mohammed Shami,Rising Pune Supergiants,0.0,13.894736842105264
+Mohammed Shami,Royal Challengers Bangalore,1.3076923076923077,9.215617715617716
+Mohammed Shami,Sunrisers Hyderabad,1.2857142857142858,7.8690476190476195
+Mohammed Siraj,Chennai Super Kings,0.25,9.284722222222223
+Mohammed Siraj,Delhi Capitals,1.2727272727272727,9.073002754820937
+Mohammed Siraj,Delhi Daredevils,1.25,10.0625
+Mohammed Siraj,Gujarat Lions,4.0,8.0
+Mohammed Siraj,Gujarat Titans,1.25,8.125
+Mohammed Siraj,Kings XI Punjab,0.6666666666666666,11.277777777777779
+Mohammed Siraj,Kolkata Knight Riders,1.0666666666666667,8.445238095238095
+Mohammed Siraj,Lucknow Super Giants,1.0,9.285714285714286
+Mohammed Siraj,Mumbai Indians,0.8666666666666667,8.906140350877193
+Mohammed Siraj,Punjab Kings,1.375,10.625
+Mohammed Siraj,Rajasthan Royals,1.0,8.634615384615385
+Mohammed Siraj,Rising Pune Supergiant,0.0,10.5
+Mohammed Siraj,Royal Challengers Bengaluru,3.0,4.75
+Mohammed Siraj,Sunrisers Hyderabad,1.2307692307692308,7.3589743589743595
+Mohsin Khan,Chennai Super Kings,1.0,10.875
+Mohsin Khan,Delhi Capitals,2.0,5.625
+Mohsin Khan,Gujarat Titans,0.6666666666666666,9.166666666666666
+Mohsin Khan,Kolkata Knight Riders,1.2,8.65
+Mohsin Khan,Mumbai Indians,1.2,8.733333333333333
+Mohsin Khan,Punjab Kings,2.5,7.25
+Mohsin Khan,Rajasthan Royals,0.3333333333333333,11.666666666666666
+Mohsin Khan,Royal Challengers Bangalore,1.0,6.25
+Mujeeb Ur Rahman,Chennai Super Kings,0.0,6.0
+Mujeeb Ur Rahman,Delhi Capitals,0.0,9.0
+Mujeeb Ur Rahman,Delhi Daredevils,2.0,6.625
+Mujeeb Ur Rahman,Gujarat Titans,1.0,14.0
+Mujeeb Ur Rahman,Kolkata Knight Riders,0.6666666666666666,10.333333333333334
+Mujeeb Ur Rahman,Mumbai Indians,2.0,8.25
+Mujeeb Ur Rahman,Rajasthan Royals,1.75,6.9375
+Mujeeb Ur Rahman,Royal Challengers Bangalore,1.0,7.25
+Mujeeb Ur Rahman,Sunrisers Hyderabad,0.4,9.15
+Mukesh Kumar,Chennai Super Kings,2.0,8.0
+Mukesh Kumar,Gujarat Titans,1.5,9.0875
+Mukesh Kumar,Kolkata Knight Riders,1.0,8.5
+Mukesh Kumar,Lucknow Super Giants,1.6,9.25
+Mukesh Kumar,Mumbai Indians,2.25,12.8125
+Mukesh Kumar,Punjab Kings,1.0,9.416666666666666
+Mukesh Kumar,Rajasthan Royals,1.25,10.395833333333334
+Mukesh Kumar,Royal Challengers Bangalore,1.0,10.0
+Mukesh Kumar,Royal Challengers Bengaluru,1.6666666666666667,10.3015873015873
+Mukesh Kumar,Sunrisers Hyderabad,0.5,12.6875
+Mustafizur Rahman,Chennai Super Kings,1.3333333333333333,10.724637681159422
+Mustafizur Rahman,Delhi Capitals,2.0,8.166666666666666
+Mustafizur Rahman,Delhi Daredevils,0.75,7.625
+Mustafizur Rahman,Gujarat Lions,1.5,4.5
+Mustafizur Rahman,Gujarat Titans,1.6666666666666667,7.083333333333333
+Mustafizur Rahman,Kings XI Punjab,2.0,5.125
+Mustafizur Rahman,Kolkata Knight Riders,1.125,6.34375
+Mustafizur Rahman,Lucknow Super Giants,0.5,10.267857142857142
+Mustafizur Rahman,Mumbai Indians,1.125,10.139880952380953
+Mustafizur Rahman,Punjab Kings,1.0,7.9
+Mustafizur Rahman,Rajasthan Royals,1.0,9.75
+Mustafizur Rahman,Rising Pune Supergiants,0.0,8.5
+Mustafizur Rahman,Royal Challengers Bangalore,0.875,10.005952380952381
+Mustafizur Rahman,Royal Challengers Bengaluru,4.0,7.25
+Mustafizur Rahman,Sunrisers Hyderabad,2.2,6.008708938120703
+N Rana,Chennai Super Kings,0.0,16.0
+N Rana,Delhi Capitals,0.75,8.0625
+N Rana,Delhi Daredevils,0.0,3.0
+N Rana,Gujarat Titans,0.0,16.799999999999997
+N Rana,Kings XI Punjab,0.3333333333333333,5.0
+N Rana,Kolkata Knight Riders,0.0,9.0
+N Rana,Lucknow Super Giants,0.0,6.0
+N Rana,Mumbai Indians,0.0,6.75
+N Rana,Punjab Kings,0.5,7.0
+N Rana,Rajasthan Royals,0.6666666666666666,14.833333333333334
+N Rana,Royal Challengers Bangalore,1.0,10.0
+N Rana,Sunrisers Hyderabad,0.0,7.666666666666667
+NLTC Perera,Chennai Super Kings,2.5,9.625
+NLTC Perera,Deccan Chargers,2.0,7.5
+NLTC Perera,Delhi Daredevils,0.8,8.044736842105262
+NLTC Perera,Gujarat Lions,3.0,10.25
+NLTC Perera,Kings XI Punjab,0.6,9.383333333333335
+NLTC Perera,Kolkata Knight Riders,1.0,8.875
+NLTC Perera,Mumbai Indians,0.0,12.442857142857143
+NLTC Perera,Pune Warriors,2.0,6.75
+NLTC Perera,Rajasthan Royals,1.0,6.75
+NLTC Perera,Royal Challengers Bangalore,1.25,9.6875
+NLTC Perera,Sunrisers Hyderabad,0.5,10.5
+NM Coulter-Nile,Chennai Super Kings,2.0,6.875
+NM Coulter-Nile,Delhi Capitals,1.25,6.4375
+NM Coulter-Nile,Delhi Daredevils,3.0,7.0
+NM Coulter-Nile,Gujarat Lions,2.0,12.3
+NM Coulter-Nile,Kings XI Punjab,1.25,6.291666666666667
+NM Coulter-Nile,Kolkata Knight Riders,1.0,8.75
+NM Coulter-Nile,Mumbai Indians,1.3333333333333333,7.166666666666667
+NM Coulter-Nile,Punjab Kings,0.0,4.75
+NM Coulter-Nile,Rajasthan Royals,1.25,8.0625
+NM Coulter-Nile,Rising Pune Supergiant,0.0,13.666666666666666
+NM Coulter-Nile,Rising Pune Supergiants,0.0,7.0
+NM Coulter-Nile,Royal Challengers Bangalore,1.5,7.785714285714286
+NM Coulter-Nile,Sunrisers Hyderabad,1.5555555555555556,8.25
+Navdeep Saini,Chennai Super Kings,0.5,8.13888888888889
+Navdeep Saini,Delhi Capitals,1.0,11.0
+Navdeep Saini,Kings XI Punjab,0.5,7.125
+Navdeep Saini,Kolkata Knight Riders,1.25,7.395833333333333
+Navdeep Saini,Mumbai Indians,0.75,10.783333333333333
+Navdeep Saini,Punjab Kings,3.0,10.0
+Navdeep Saini,Rajasthan Royals,0.25,9.375
+Navdeep Saini,Royal Challengers Bangalore,1.0,12.0
+Navdeep Saini,Sunrisers Hyderabad,1.25,9.863636363636363
+Noor Ahmad,Chennai Super Kings,1.0,8.472222222222221
+Noor Ahmad,Delhi Capitals,0.5,9.15909090909091
+Noor Ahmad,Gujarat Titans,3.0,5.25
+Noor Ahmad,Kolkata Knight Riders,2.3333333333333335,5.666666666666667
+Noor Ahmad,Lucknow Super Giants,0.75,4.9375
+Noor Ahmad,Mumbai Indians,1.4,8.8
+Noor Ahmad,Punjab Kings,1.5,8.354166666666666
+Noor Ahmad,Rajasthan Royals,1.2,10.502380952380951
+Noor Ahmad,Royal Challengers Bangalore,2.0,9.75
+Noor Ahmad,Royal Challengers Bengaluru,1.5,8.0
+Noor Ahmad,Sunrisers Hyderabad,1.0,10.284313725490195
+P Awana,Chennai Super Kings,1.1666666666666667,9.194444444444445
+P Awana,Deccan Chargers,1.5,8.5
+P Awana,Delhi Daredevils,1.4,7.216666666666667
+P Awana,Kolkata Knight Riders,1.0,10.071428571428571
+P Awana,Mumbai Indians,1.5,6.6875
+P Awana,Pune Warriors,1.3333333333333333,6.0
+P Awana,Rajasthan Royals,0.75,9.25
+P Awana,Royal Challengers Bangalore,2.0,9.3125
+P Awana,Sunrisers Hyderabad,1.0,8.75
+P Kumar,Chennai Super Kings,1.1333333333333333,8.133982683982683
+P Kumar,Deccan Chargers,1.2,7.816666666666667
+P Kumar,Delhi Daredevils,0.8571428571428571,9.107142857142858
+P Kumar,Kings XI Punjab,1.1,7.544852941176471
+P Kumar,Kolkata Knight Riders,0.625,7.875
+P Kumar,Mumbai Indians,0.8125,7.453125
+P Kumar,Pune Warriors,1.0,6.972222222222222
+P Kumar,Rajasthan Royals,0.8333333333333334,7.194444444444444
+P Kumar,Rising Pune Supergiant,1.0,12.75
+P Kumar,Rising Pune Supergiants,0.5,7.625
+P Kumar,Royal Challengers Bangalore,0.4,7.935
+P Kumar,Sunrisers Hyderabad,0.7142857142857143,8.22857142857143
+P Negi,Chennai Super Kings,0.6666666666666666,9.083333333333334
+P Negi,Delhi Capitals,1.0,9.0
+P Negi,Delhi Daredevils,2.3333333333333335,5.777777777777779
+P Negi,Gujarat Lions,1.0,8.625
+P Negi,Kings XI Punjab,0.8333333333333334,8.430555555555555
+P Negi,Kolkata Knight Riders,1.6,5.7026315789473685
+P Negi,Mumbai Indians,0.5714285714285714,11.142857142857142
+P Negi,Pune Warriors,0.0,5.5
+P Negi,Rajasthan Royals,1.0,8.3125
+P Negi,Rising Pune Supergiant,1.0,4.25
+P Negi,Rising Pune Supergiants,0.0,10.0
+P Negi,Royal Challengers Bangalore,0.2,8.166666666666666
+P Negi,Sunrisers Hyderabad,1.0,9.75
+PJ Cummins,Chennai Super Kings,0.8888888888888888,8.916666666666666
+PJ Cummins,Delhi Capitals,1.2857142857142858,8.892857142857142
+PJ Cummins,Gujarat Lions,1.5,8.5
+PJ Cummins,Gujarat Titans,1.0,8.030303030303031
+PJ Cummins,Kings XI Punjab,0.6666666666666666,6.916666666666667
+PJ Cummins,Kolkata Knight Riders,0.8571428571428571,10.035714285714286
+PJ Cummins,Lucknow Super Giants,1.0,9.972222222222223
+PJ Cummins,Mumbai Indians,1.4545454545454546,9.409090909090908
+PJ Cummins,Punjab Kings,1.0,8.708333333333334
+PJ Cummins,Rajasthan Royals,1.2857142857142858,9.389233954451345
+PJ Cummins,Rising Pune Supergiant,2.0,7.664473684210526
+PJ Cummins,Royal Challengers Bangalore,0.6666666666666666,7.583333333333333
+PJ Cummins,Royal Challengers Bengaluru,2.3333333333333335,10.5
+PJ Cummins,Sunrisers Hyderabad,0.8,7.786956521739131
+PJ Sangwan,Chennai Super Kings,1.4,9.883333333333333
+PJ Sangwan,Deccan Chargers,1.3333333333333333,6.125
+PJ Sangwan,Delhi Daredevils,1.3333333333333333,10.972222222222221
+PJ Sangwan,Kings XI Punjab,0.6666666666666666,9.972222222222223
+PJ Sangwan,Kolkata Knight Riders,1.25,8.791666666666666
+PJ Sangwan,Mumbai Indians,1.5,7.236111111111111
+PJ Sangwan,Punjab Kings,0.0,11.5
+PJ Sangwan,Rajasthan Royals,0.6666666666666666,6.75
+PJ Sangwan,Rising Pune Supergiant,2.0,9.5
+PJ Sangwan,Royal Challengers Bangalore,1.1666666666666667,10.041666666666666
+PJ Sangwan,Sunrisers Hyderabad,0.0,10.3125
+PP Chawla,Chennai Super Kings,1.0,8.807344838761951
+PP Chawla,Deccan Chargers,0.7272727272727273,7.621212121212121
+PP Chawla,Delhi Capitals,1.1666666666666667,10.017156862745098
+PP Chawla,Delhi Daredevils,1.105263157894737,8.37017543859649
+PP Chawla,Gujarat Lions,1.5,7.875
+PP Chawla,Gujarat Titans,1.5,10.708333333333334
+PP Chawla,Kings XI Punjab,1.0714285714285714,8.595238095238095
+PP Chawla,Kochi Tuskers Kerala,1.0,7.5
+PP Chawla,Kolkata Knight Riders,1.0,8.008333333333335
+PP Chawla,Lucknow Super Giants,1.5,7.645833333333333
+PP Chawla,Mumbai Indians,1.3333333333333333,8.388471177944862
+PP Chawla,Pune Warriors,0.4,7.55
+PP Chawla,Punjab Kings,2.0,6.125
+PP Chawla,Rajasthan Royals,1.0909090909090908,7.943939393939394
+PP Chawla,Rising Pune Supergiant,1.0,9.0
+PP Chawla,Rising Pune Supergiants,1.0,6.958333333333333
+PP Chawla,Royal Challengers Bangalore,0.8260869565217391,7.946605644546148
+PP Chawla,Sunrisers Hyderabad,0.9473684210526315,8.964912280701755
+PP Ojha,Chennai Super Kings,1.5333333333333334,6.597619047619047
+PP Ojha,Deccan Chargers,0.0,9.75
+PP Ojha,Delhi Daredevils,1.0833333333333333,7.166666666666667
+PP Ojha,Kings XI Punjab,1.0,7.638888888888889
+PP Ojha,Kolkata Knight Riders,0.8571428571428571,7.404761904761905
+PP Ojha,Mumbai Indians,1.2857142857142858,5.964285714285714
+PP Ojha,Pune Warriors,1.3333333333333333,7.361111111111111
+PP Ojha,Rajasthan Royals,0.8461538461538461,9.599060359929926
+PP Ojha,Royal Challengers Bangalore,1.4444444444444444,7.526570048309178
+PP Ojha,Sunrisers Hyderabad,0.25,9.020833333333332
+PV Tambe,Chennai Super Kings,0.5,8.0625
+PV Tambe,Delhi Daredevils,0.8,8.95
+PV Tambe,Kings XI Punjab,0.25,6.791666666666667
+PV Tambe,Kolkata Knight Riders,1.6666666666666667,7.25
+PV Tambe,Mumbai Indians,1.0,9.083333333333332
+PV Tambe,Rising Pune Supergiants,2.0,8.25
+PV Tambe,Royal Challengers Bangalore,1.0,9.5
+PV Tambe,Sunrisers Hyderabad,0.6666666666666666,6.5694444444444455
+PWH de Silva,Chennai Super Kings,1.5,9.666666666666666
+PWH de Silva,Delhi Capitals,1.0,9.958333333333332
+PWH de Silva,Gujarat Titans,1.0,7.666666666666667
+PWH de Silva,Kolkata Knight Riders,1.4,8.216666666666665
+PWH de Silva,Lucknow Super Giants,1.0,8.3125
+PWH de Silva,Mumbai Indians,2.0,10.125
+PWH de Silva,Punjab Kings,1.2,8.7
+PWH de Silva,Rajasthan Royals,1.0,7.0625
+PWH de Silva,Royal Challengers Bengaluru,0.5,9.25
+PWH de Silva,Sunrisers Hyderabad,2.5,5.75
+R Ashwin,Chennai Super Kings,1.25,7.958333333333333
+R Ashwin,Deccan Chargers,0.8333333333333334,4.888888888888889
+R Ashwin,Delhi Capitals,1.125,7.708333333333333
+R Ashwin,Delhi Daredevils,1.4375,5.76875
+R Ashwin,Gujarat Lions,0.0,7.875
+R Ashwin,Gujarat Titans,0.16666666666666666,9.36111111111111
+R Ashwin,Kings XI Punjab,1.1764705882352942,7.372549019607844
+R Ashwin,Kochi Tuskers Kerala,1.5,5.875
+R Ashwin,Kolkata Knight Riders,0.8571428571428571,8.367624223602485
+R Ashwin,Lucknow Super Giants,1.0,7.05
+R Ashwin,Mumbai Indians,0.7567567567567568,7.011261261261262
+R Ashwin,Pune Warriors,1.0,6.916666666666667
+R Ashwin,Punjab Kings,1.0,8.2
+R Ashwin,Rajasthan Royals,1.2105263157894737,7.879481311975592
+R Ashwin,Royal Challengers Bangalore,0.8461538461538461,7.580128205128205
+R Ashwin,Royal Challengers Bengaluru,1.0,7.583333333333333
+R Ashwin,Sunrisers Hyderabad,0.65,7.496568627450981
+R Bhatia,Chennai Super Kings,0.8461538461538461,7.6089743589743595
+R Bhatia,Deccan Chargers,2.1666666666666665,6.770833333333333
+R Bhatia,Delhi Daredevils,0.8,7.725
+R Bhatia,Gujarat Lions,0.5,9.333333333333332
+R Bhatia,Kings XI Punjab,0.7272727272727273,7.4772727272727275
+R Bhatia,Kochi Tuskers Kerala,1.0,7.333333333333334
+R Bhatia,Kolkata Knight Riders,0.7142857142857143,8.321428571428571
+R Bhatia,Mumbai Indians,1.1666666666666667,7.473429951690822
+R Bhatia,Pune Warriors,0.6,6.383333333333334
+R Bhatia,Rajasthan Royals,1.1428571428571428,6.964285714285714
+R Bhatia,Royal Challengers Bangalore,0.25,9.819444444444445
+R Bhatia,Sunrisers Hyderabad,1.4,7.2333333333333325
+R Dhawan,Chennai Super Kings,1.0,8.05
+R Dhawan,Delhi Capitals,0.0,9.25
+R Dhawan,Delhi Daredevils,0.6666666666666666,7.888888888888888
+R Dhawan,Gujarat Titans,1.0,6.5
+R Dhawan,Kings XI Punjab,1.0,6.5
+R Dhawan,Kolkata Knight Riders,0.4,9.5
+R Dhawan,Lucknow Super Giants,0.0,6.5
+R Dhawan,Mumbai Indians,1.0,8.104166666666666
+R Dhawan,Pune Warriors,0.0,6.75
+R Dhawan,Rajasthan Royals,0.75,8.020833333333332
+R Dhawan,Rising Pune Supergiants,1.0,7.0
+R Dhawan,Royal Challengers Bangalore,1.3333333333333333,7.166666666666667
+R Dhawan,Sunrisers Hyderabad,0.8,9.554761904761905
+R Parag,Chennai Super Kings,0.0,12.333333333333334
+R Parag,Delhi Capitals,0.3333333333333333,11.138888888888888
+R Parag,Gujarat Titans,0.5,13.0
+R Parag,Kolkata Knight Riders,0.5,8.5625
+R Parag,Mumbai Indians,0.3333333333333333,8.5
+R Parag,Punjab Kings,0.6666666666666666,10.555555555555555
+R Parag,Royal Challengers Bangalore,0.25,15.25
+R Parag,Royal Challengers Bengaluru,0.0,10.0
+R Parag,Sunrisers Hyderabad,0.0,11.0
+R Sai Kishore,Chennai Super Kings,1.0,9.527777777777779
+R Sai Kishore,Delhi Capitals,0.6666666666666666,14.25
+R Sai Kishore,Kolkata Knight Riders,1.0,6.333333333333334
+R Sai Kishore,Lucknow Super Giants,1.0,12.72222222222222
+R Sai Kishore,Mumbai Indians,1.5,8.5625
+R Sai Kishore,Punjab Kings,3.5,7.875
+R Sai Kishore,Rajasthan Royals,1.25,11.330357142857142
+R Sai Kishore,Royal Challengers Bangalore,0.0,5.0
+R Sai Kishore,Royal Challengers Bengaluru,1.5,7.75
+R Sai Kishore,Sunrisers Hyderabad,1.0,3.75
+R Sharma,Chennai Super Kings,0.8333333333333334,6.430555555555556
+R Sharma,Deccan Chargers,1.3333333333333333,7.333333333333333
+R Sharma,Delhi Daredevils,1.0,7.845238095238095
+R Sharma,Kings XI Punjab,1.0,6.630952380952381
+R Sharma,Kochi Tuskers Kerala,1.0,4.5
+R Sharma,Kolkata Knight Riders,0.0,7.25
+R Sharma,Mumbai Indians,1.0,5.033333333333333
+R Sharma,Rajasthan Royals,0.8333333333333334,7.65530303030303
+R Sharma,Royal Challengers Bangalore,0.8333333333333334,10.0
+R Sharma,Sunrisers Hyderabad,1.5,5.25
+R Tewatia,Chennai Super Kings,1.3333333333333333,8.666666666666666
+R Tewatia,Delhi Capitals,0.6,7.666666666666666
+R Tewatia,Kings XI Punjab,0.8333333333333334,9.111111111111112
+R Tewatia,Kolkata Knight Riders,1.25,7.71875
+R Tewatia,Lucknow Super Giants,0.0,8.0
+R Tewatia,Mumbai Indians,0.5714285714285714,8.607142857142858
+R Tewatia,Punjab Kings,0.3333333333333333,14.722222222222221
+R Tewatia,Rajasthan Royals,0.0,8.125
+R Tewatia,Rising Pune Supergiant,0.0,4.666666666666667
+R Tewatia,Royal Challengers Bangalore,0.3333333333333333,8.0
+R Tewatia,Sunrisers Hyderabad,0.42857142857142855,8.035714285714286
+R Vinay Kumar,Chennai Super Kings,1.0588235294117647,10.139142287931216
+R Vinay Kumar,Deccan Chargers,2.3333333333333335,7.338888888888889
+R Vinay Kumar,Delhi Daredevils,0.9285714285714286,8.719047619047618
+R Vinay Kumar,Gujarat Lions,2.0,5.666666666666666
+R Vinay Kumar,Kings XI Punjab,0.45454545454545453,8.41798418972332
+R Vinay Kumar,Kolkata Knight Riders,2.0,7.008333333333333
+R Vinay Kumar,Mumbai Indians,1.1538461538461537,8.826923076923077
+R Vinay Kumar,Pune Warriors,2.2,7.05
+R Vinay Kumar,Rajasthan Royals,1.0714285714285714,8.417184265010352
+R Vinay Kumar,Rising Pune Supergiants,0.0,7.0
+R Vinay Kumar,Royal Challengers Bangalore,1.2,9.118181818181819
+R Vinay Kumar,Sunrisers Hyderabad,0.8,8.58
+RA Jadeja,Chennai Super Kings,0.6666666666666666,8.833333333333334
+RA Jadeja,Deccan Chargers,1.6,6.533333333333333
+RA Jadeja,Delhi Capitals,1.0833333333333333,8.889520202020202
+RA Jadeja,Delhi Daredevils,0.7058823529411765,7.720588235294118
+RA Jadeja,Gujarat Titans,1.0,8.142857142857142
+RA Jadeja,Kings XI Punjab,0.7777777777777778,8.5
+RA Jadeja,Kolkata Knight Riders,0.7931034482758621,9.126436781609197
+RA Jadeja,Lucknow Super Giants,0.5,9.138888888888888
+RA Jadeja,Mumbai Indians,0.6363636363636364,9.416666666666666
+RA Jadeja,Pune Warriors,1.0,6.375
+RA Jadeja,Punjab Kings,0.7777777777777778,7.583333333333333
+RA Jadeja,Rajasthan Royals,1.0,7.607142857142858
+RA Jadeja,Rising Pune Supergiant,0.5,9.75
+RA Jadeja,Rising Pune Supergiants,1.0,6.875
+RA Jadeja,Royal Challengers Bangalore,1.037037037037037,7.447530864197531
+RA Jadeja,Royal Challengers Bengaluru,0.0,9.895833333333332
+RA Jadeja,Sunrisers Hyderabad,0.4583333333333333,7.639445929887106
+RD Chahar,Chennai Super Kings,1.1538461538461537,6.1923076923076925
+RD Chahar,Delhi Capitals,1.0,7.640000000000001
+RD Chahar,Gujarat Lions,1.0,8.666666666666666
+RD Chahar,Gujarat Titans,0.3333333333333333,8.527777777777779
+RD Chahar,Kings XI Punjab,1.25,7.375
+RD Chahar,Kolkata Knight Riders,1.5,7.783333333333333
+RD Chahar,Lucknow Super Giants,0.75,9.520833333333334
+RD Chahar,Mumbai Indians,0.0,10.125
+RD Chahar,Punjab Kings,1.0,5.75
+RD Chahar,Rajasthan Royals,1.1111111111111112,8.502525252525253
+RD Chahar,Royal Challengers Bangalore,0.75,8.25
+RD Chahar,Royal Challengers Bengaluru,0.0,15.833333333333334
+RD Chahar,Sunrisers Hyderabad,1.0,8.416666666666666
+RE van der Merwe,Chennai Super Kings,0.8,5.75
+RE van der Merwe,Deccan Chargers,0.5,7.5
+RE van der Merwe,Delhi Daredevils,1.0,7.75
+RE van der Merwe,Kings XI Punjab,2.0,5.791666666666667
+RE van der Merwe,Kochi Tuskers Kerala,2.5,5.108695652173913
+RE van der Merwe,Kolkata Knight Riders,2.0,7.6944444444444455
+RE van der Merwe,Mumbai Indians,0.75,6.854166666666666
+RE van der Merwe,Rajasthan Royals,0.5,10.625
+RG Sharma,Chennai Super Kings,0.4,9.05
+RG Sharma,Delhi Daredevils,0.25,8.916666666666666
+RG Sharma,Kings XI Punjab,0.5714285714285714,7.583333333333334
+RG Sharma,Kolkata Knight Riders,0.25,12.125
+RG Sharma,Mumbai Indians,1.0,8.416666666666666
+RG Sharma,Rajasthan Royals,1.3333333333333333,6.5
+RG Sharma,Royal Challengers Bangalore,0.0,11.25
+RG Sharma,Sunrisers Hyderabad,0.0,5.0
+RJ Harris,Chennai Super Kings,1.3333333333333333,6.875
+RJ Harris,Deccan Chargers,0.6666666666666666,8.166666666666666
+RJ Harris,Delhi Daredevils,1.5,6.875
+RJ Harris,Kings XI Punjab,0.3333333333333333,8.055555555555555
+RJ Harris,Kochi Tuskers Kerala,2.0,10.5
+RJ Harris,Kolkata Knight Riders,1.0,5.75
+RJ Harris,Mumbai Indians,1.0,7.75
+RJ Harris,Pune Warriors,1.0,4.75
+RJ Harris,Rajasthan Royals,1.75,8.25
+RJ Harris,Royal Challengers Bangalore,1.625,8.409090909090908
+RP Singh,Chennai Super Kings,0.9230769230769231,9.12402452619844
+RP Singh,Deccan Chargers,1.5,5.958333333333334
+RP Singh,Delhi Daredevils,1.0,8.704545454545455
+RP Singh,Gujarat Lions,0.0,10.5
+RP Singh,Kings XI Punjab,1.0,9.413920350748995
+RP Singh,Kolkata Knight Riders,2.0,8.469298245614034
+RP Singh,Mumbai Indians,1.75,6.9375
+RP Singh,Pune Warriors,0.6666666666666666,7.25
+RP Singh,Rajasthan Royals,1.2727272727272727,6.787878787878788
+RP Singh,Royal Challengers Bangalore,1.0,7.347222222222222
+RP Singh,Sunrisers Hyderabad,2.0,7.208333333333333
+RR Powar,Chennai Super Kings,1.0,6.916666666666667
+RR Powar,Deccan Chargers,0.75,6.666666666666666
+RR Powar,Delhi Daredevils,0.8,9.983333333333334
+RR Powar,Kolkata Knight Riders,0.25,6.0
+RR Powar,Mumbai Indians,0.3333333333333333,8.25
+RR Powar,Rajasthan Royals,0.25,8.0
+RR Powar,Royal Challengers Bangalore,0.0,10.75
+Rashid Khan,Chennai Super Kings,1.0555555555555556,8.13425925925926
+Rashid Khan,Delhi Capitals,1.2666666666666666,6.246666666666667
+Rashid Khan,Delhi Daredevils,1.0,7.1875
+Rashid Khan,Gujarat Lions,3.0,6.625
+Rashid Khan,Kings XI Punjab,2.0,6.21875
+Rashid Khan,Kolkata Knight Riders,1.1875,7.091517857142858
+Rashid Khan,Lucknow Super Giants,1.4285714285714286,9.072981366459627
+Rashid Khan,Mumbai Indians,1.2222222222222223,6.162037037037037
+Rashid Khan,Punjab Kings,1.125,6.4375
+Rashid Khan,Rajasthan Royals,1.25,6.3125
+Rashid Khan,Rising Pune Supergiant,1.5,4.375
+Rashid Khan,Royal Challengers Bangalore,1.3076923076923077,7.346153846153846
+Rashid Khan,Royal Challengers Bengaluru,0.0,13.75
+Rashid Khan,Sunrisers Hyderabad,0.3333333333333333,9.652777777777777
+Ravi Bishnoi,Chennai Super Kings,1.125,7.96875
+Ravi Bishnoi,Delhi Capitals,1.1,8.225
+Ravi Bishnoi,Gujarat Titans,0.6,8.85
+Ravi Bishnoi,Kolkata Knight Riders,1.2,7.2125
+Ravi Bishnoi,Mumbai Indians,1.1666666666666667,7.923611111111111
+Ravi Bishnoi,Punjab Kings,1.0,10.073333333333332
+Ravi Bishnoi,Rajasthan Royals,0.75,8.541666666666666
+Ravi Bishnoi,Royal Challengers Bangalore,1.0,8.583333333333334
+Ravi Bishnoi,Royal Challengers Bengaluru,0.0,11.0
+Ravi Bishnoi,Sunrisers Hyderabad,1.0,10.574074074074074
+S Aravind,Chennai Super Kings,1.5,8.729166666666666
+S Aravind,Deccan Chargers,0.0,8.666666666666666
+S Aravind,Delhi Daredevils,1.0,8.388888888888888
+S Aravind,Gujarat Lions,0.5,7.229166666666666
+S Aravind,Kings XI Punjab,1.8333333333333333,8.375
+S Aravind,Kochi Tuskers Kerala,2.0,5.0
+S Aravind,Kolkata Knight Riders,1.3333333333333333,11.613705738705738
+S Aravind,Mumbai Indians,1.0,7.55
+S Aravind,Pune Warriors,1.0,8.75
+S Aravind,Rajasthan Royals,2.0,9.833333333333334
+S Aravind,Rising Pune Supergiant,1.0,7.375
+S Aravind,Sunrisers Hyderabad,1.0,9.75
+S Gopal,Chennai Super Kings,1.0,7.069444444444444
+S Gopal,Delhi Capitals,1.2,9.516666666666666
+S Gopal,Delhi Daredevils,1.0,9.833333333333334
+S Gopal,Kings XI Punjab,0.3333333333333333,8.402777777777777
+S Gopal,Kolkata Knight Riders,1.0,10.111111111111112
+S Gopal,Mumbai Indians,0.8571428571428571,8.5
+S Gopal,Punjab Kings,0.5,13.166666666666668
+S Gopal,Rajasthan Royals,1.3333333333333333,9.621794871794872
+S Gopal,Rising Pune Supergiants,0.0,6.0
+S Gopal,Royal Challengers Bangalore,2.0,7.273809523809524
+S Gopal,Royal Challengers Bengaluru,1.0,8.0
+S Gopal,Sunrisers Hyderabad,1.0,7.2
+S Kaul,Chennai Super Kings,0.42857142857142855,10.023809523809524
+S Kaul,Delhi Capitals,2.0,8.25
+S Kaul,Delhi Daredevils,0.75,9.6875
+S Kaul,Gujarat Lions,1.0,7.5
+S Kaul,Gujarat Titans,0.0,10.75
+S Kaul,Kings XI Punjab,1.1666666666666667,8.47348484848485
+S Kaul,Kolkata Knight Riders,1.125,8.412878787878789
+S Kaul,Mumbai Indians,1.7142857142857142,9.714285714285714
+S Kaul,Pune Warriors,2.0,6.75
+S Kaul,Punjab Kings,2.0,7.363636363636363
+S Kaul,Rajasthan Royals,1.1428571428571428,8.047619047619047
+S Kaul,Rising Pune Supergiant,2.0,11.125
+S Kaul,Royal Challengers Bangalore,1.0,7.805555555555556
+S Kaul,Sunrisers Hyderabad,1.0,4.5
+S Nadeem,Chennai Super Kings,0.25,7.125
+S Nadeem,Deccan Chargers,1.3333333333333333,7.25
+S Nadeem,Delhi Capitals,0.5,10.0
+S Nadeem,Gujarat Lions,0.6666666666666666,9.888888888888888
+S Nadeem,Kings XI Punjab,0.75,9.2
+S Nadeem,Kolkata Knight Riders,0.75,8.170833333333334
+S Nadeem,Mumbai Indians,0.9090909090909091,7.25
+S Nadeem,Pune Warriors,0.6,7.8
+S Nadeem,Rajasthan Royals,0.8,8.625
+S Nadeem,Rising Pune Supergiant,1.0,6.375
+S Nadeem,Royal Challengers Bangalore,1.0,7.875
+S Nadeem,Sunrisers Hyderabad,0.75,6.1875
+S Sreesanth,Chennai Super Kings,1.0,8.097222222222221
+S Sreesanth,Deccan Chargers,0.8333333333333334,8.0
+S Sreesanth,Delhi Daredevils,1.1428571428571428,6.785714285714286
+S Sreesanth,Kings XI Punjab,1.0,7.971014492753622
+S Sreesanth,Kolkata Knight Riders,1.25,7.1875
+S Sreesanth,Mumbai Indians,1.3333333333333333,12.5
+S Sreesanth,Pune Warriors,0.0,10.625
+S Sreesanth,Rajasthan Royals,0.8333333333333334,10.277777777777779
+S Sreesanth,Royal Challengers Bangalore,1.0,8.476190476190476
+SB Jakati,Chennai Super Kings,0.0,11.181818181818182
+SB Jakati,Deccan Chargers,1.8333333333333333,7.5
+SB Jakati,Delhi Daredevils,1.1666666666666667,7.416666666666667
+SB Jakati,Kings XI Punjab,0.25,11.98076923076923
+SB Jakati,Kochi Tuskers Kerala,0.5,7.875
+SB Jakati,Kolkata Knight Riders,0.6666666666666666,7.583333333333333
+SB Jakati,Mumbai Indians,0.8888888888888888,7.685185185185184
+SB Jakati,Pune Warriors,0.3333333333333333,6.722222222222222
+SB Jakati,Rajasthan Royals,1.1666666666666667,7.9305555555555545
+SB Jakati,Rising Pune Supergiant,0.0,11.0
+SB Jakati,Rising Pune Supergiants,0.0,10.0
+SB Jakati,Royal Challengers Bangalore,0.8888888888888888,9.12037037037037
+SC Ganguly,Deccan Chargers,0.6666666666666666,9.083333333333334
+SC Ganguly,Delhi Daredevils,0.75,9.125
+SC Ganguly,Kings XI Punjab,1.0,7.5
+SC Ganguly,Kolkata Knight Riders,0.0,8.5
+SC Ganguly,Mumbai Indians,0.0,12.0
+SC Ganguly,Rajasthan Royals,0.3333333333333333,11.222222222222221
+SC Ganguly,Royal Challengers Bangalore,1.0,6.270833333333333
+SK Raina,Deccan Chargers,1.1666666666666667,4.932456140350877
+SK Raina,Delhi Daredevils,0.0,8.125
+SK Raina,Kings XI Punjab,0.3333333333333333,8.51010101010101
+SK Raina,Kochi Tuskers Kerala,0.0,6.5
+SK Raina,Kolkata Knight Riders,0.4,7.066666666666667
+SK Raina,Mumbai Indians,0.5714285714285714,8.923809523809524
+SK Raina,Pune Warriors,0.0,5.444444444444444
+SK Raina,Rajasthan Royals,0.75,6.0625
+SK Raina,Rising Pune Supergiant,0.0,9.0
+SK Raina,Royal Challengers Bangalore,0.2,9.566666666666666
+SK Raina,Sunrisers Hyderabad,0.6666666666666666,7.875
+SK Trivedi,Chennai Super Kings,0.45454545454545453,9.37190082644628
+SK Trivedi,Deccan Chargers,1.5555555555555556,7.257080610021786
+SK Trivedi,Delhi Daredevils,0.625,8.135416666666666
+SK Trivedi,Kings XI Punjab,1.1,7.9
+SK Trivedi,Kochi Tuskers Kerala,4.0,4.75
+SK Trivedi,Kolkata Knight Riders,1.0,7.575
+SK Trivedi,Mumbai Indians,0.7,7.2
+SK Trivedi,Pune Warriors,1.2,7.533333333333334
+SK Trivedi,Royal Challengers Bangalore,1.125,8.022068511198945
+SK Trivedi,Sunrisers Hyderabad,0.6666666666666666,6.0555555555555545
+SK Warne,Chennai Super Kings,0.8888888888888888,8.0
+SK Warne,Deccan Chargers,1.8571428571428572,7.095238095238096
+SK Warne,Delhi Daredevils,1.0,7.03125
+SK Warne,Kings XI Punjab,1.1666666666666667,10.486111111111112
+SK Warne,Kochi Tuskers Kerala,3.0,4.0
+SK Warne,Kolkata Knight Riders,0.5,6.739583333333333
+SK Warne,Mumbai Indians,1.0,7.416666666666667
+SK Warne,Pune Warriors,1.0,7.75
+SK Warne,Royal Challengers Bangalore,1.2857142857142858,5.892857142857143
+SL Malinga,Chennai Super Kings,1.7619047619047619,7.199118514335906
+SL Malinga,Deccan Chargers,2.5,4.704545454545454
+SL Malinga,Delhi Capitals,1.0,9.25
+SL Malinga,Delhi Daredevils,1.8333333333333333,6.412121212121211
+SL Malinga,Gujarat Lions,1.5,10.5
+SL Malinga,Kings XI Punjab,1.9285714285714286,8.0
+SL Malinga,Kochi Tuskers Kerala,2.0,10.5
+SL Malinga,Kolkata Knight Riders,1.3529411764705883,6.935704321254193
+SL Malinga,Pune Warriors,2.0,5.958333333333333
+SL Malinga,Rajasthan Royals,0.9230769230769231,7.636639676113361
+SL Malinga,Rising Pune Supergiant,0.5,4.958333333333334
+SL Malinga,Royal Challengers Bangalore,0.9375,7.491541353383458
+SL Malinga,Sunrisers Hyderabad,1.4444444444444444,7.407407407407408
+SM Curran,Chennai Super Kings,1.0,9.966666666666665
+SM Curran,Delhi Capitals,1.0,8.685876623376624
+SM Curran,Gujarat Titans,0.6666666666666666,8.17391304347826
+SM Curran,Kings XI Punjab,0.0,8.916666666666668
+SM Curran,Kolkata Knight Riders,0.75,11.822916666666668
+SM Curran,Lucknow Super Giants,2.3333333333333335,9.13888888888889
+SM Curran,Mumbai Indians,1.1428571428571428,11.369047619047619
+SM Curran,Punjab Kings,0.5,6.5
+SM Curran,Rajasthan Royals,1.4444444444444444,9.305555555555555
+SM Curran,Royal Challengers Bangalore,1.0,8.833333333333334
+SM Curran,Royal Challengers Bengaluru,0.75,12.333333333333332
+SM Curran,Sunrisers Hyderabad,0.7142857142857143,8.678571428571429
+SN Thakur,Chennai Super Kings,0.3333333333333333,10.555555555555555
+SN Thakur,Delhi Capitals,0.875,10.681818181818182
+SN Thakur,Delhi Daredevils,0.6666666666666666,10.361111111111112
+SN Thakur,Gujarat Lions,1.0,6.5
+SN Thakur,Gujarat Titans,0.5,9.645833333333334
+SN Thakur,Kings XI Punjab,2.0,8.25
+SN Thakur,Kolkata Knight Riders,1.3333333333333333,9.259502923976608
+SN Thakur,Lucknow Super Giants,1.5,11.352272727272727
+SN Thakur,Mumbai Indians,1.0,9.748299319727892
+SN Thakur,Punjab Kings,1.125,9.990530303030303
+SN Thakur,Rajasthan Royals,0.9166666666666666,8.903769841269842
+SN Thakur,Royal Challengers Bangalore,1.4444444444444444,8.222222222222221
+SN Thakur,Royal Challengers Bengaluru,2.0,15.25
+SN Thakur,Sunrisers Hyderabad,1.1764705882352942,9.684313725490195
+SP Narine,Chennai Super Kings,1.2727272727272727,6.4409090909090905
+SP Narine,Deccan Chargers,2.0,6.5
+SP Narine,Delhi Capitals,1.0,7.454545454545454
+SP Narine,Delhi Daredevils,1.7692307692307692,6.596153846153846
+SP Narine,Gujarat Lions,0.6666666666666666,8.75
+SP Narine,Gujarat Titans,1.0,8.25
+SP Narine,Kings XI Punjab,1.631578947368421,7.140350877192982
+SP Narine,Lucknow Super Giants,0.8333333333333334,6.861111111111112
+SP Narine,Mumbai Indians,1.1666666666666667,7.02375730994152
+SP Narine,Pune Warriors,1.25,4.125
+SP Narine,Punjab Kings,1.0,7.052083333333334
+SP Narine,Rajasthan Royals,0.75,7.140000000000001
+SP Narine,Rising Pune Supergiant,1.0,7.75
+SP Narine,Rising Pune Supergiants,1.0,5.363636363636363
+SP Narine,Royal Challengers Bangalore,1.2777777777777777,6.402777777777778
+SP Narine,Royal Challengers Bengaluru,1.3333333333333333,8.416666666666666
+SP Narine,Sunrisers Hyderabad,0.7037037037037037,6.833333333333333
+SR Watson,Chennai Super Kings,0.7272727272727273,8.601928374655648
+SR Watson,Deccan Chargers,0.5,8.916666666666668
+SR Watson,Delhi Daredevils,1.1666666666666667,6.965277777777778
+SR Watson,Gujarat Lions,1.25,7.776785714285714
+SR Watson,Kings XI Punjab,1.1538461538461537,7.923076923076923
+SR Watson,Kochi Tuskers Kerala,1.0,5.75
+SR Watson,Kolkata Knight Riders,1.0,8.419028340080972
+SR Watson,Mumbai Indians,0.9333333333333333,9.192512077294685
+SR Watson,Pune Warriors,0.75,6.333333333333334
+SR Watson,Rajasthan Royals,0.5,6.666666666666666
+SR Watson,Rising Pune Supergiant,1.0,11.0
+SR Watson,Rising Pune Supergiants,2.5,6.875
+SR Watson,Royal Challengers Bangalore,1.0,6.743055555555556
+SR Watson,Sunrisers Hyderabad,1.1818181818181819,9.5
+ST Jayasuriya,Chennai Super Kings,2.0,8.5
+ST Jayasuriya,Deccan Chargers,0.5,8.104166666666668
+ST Jayasuriya,Delhi Daredevils,0.75,10.375
+ST Jayasuriya,Kings XI Punjab,0.5,4.0
+ST Jayasuriya,Kolkata Knight Riders,2.0,8.25
+ST Jayasuriya,Rajasthan Royals,0.6,8.5
+ST Jayasuriya,Royal Challengers Bangalore,0.3333333333333333,9.25
+STR Binny,Chennai Super Kings,0.2857142857142857,9.88095238095238
+STR Binny,Deccan Chargers,0.5,11.0
+STR Binny,Delhi Capitals,0.0,4.5
+STR Binny,Delhi Daredevils,0.6666666666666666,8.25
+STR Binny,Gujarat Lions,0.0,5.25
+STR Binny,Kings XI Punjab,0.375,7.25
+STR Binny,Kolkata Knight Riders,0.2857142857142857,8.5
+STR Binny,Mumbai Indians,0.7272727272727273,7.954545454545454
+STR Binny,Pune Warriors,0.3333333333333333,7.333333333333333
+STR Binny,Rising Pune Supergiant,1.0,8.5
+STR Binny,Rising Pune Supergiants,0.0,10.0
+STR Binny,Royal Challengers Bangalore,0.8,4.8
+STR Binny,Sunrisers Hyderabad,0.2857142857142857,7.178571428571429
+SW Tait,Chennai Super Kings,1.0,7.605263157894737
+SW Tait,Deccan Chargers,2.0,7.522727272727272
+SW Tait,Delhi Daredevils,0.75,10.6875
+SW Tait,Kings XI Punjab,2.6666666666666665,5.649122807017544
+SW Tait,Kochi Tuskers Kerala,0.0,12.0
+SW Tait,Kolkata Knight Riders,0.6666666666666666,7.355072463768116
+SW Tait,Mumbai Indians,1.0,10.75
+SW Tait,Pune Warriors,2.0,4.75
+SW Tait,Royal Challengers Bangalore,0.0,10.0
+Sandeep Sharma,Chennai Super Kings,0.7647058823529411,8.874162708561684
+Sandeep Sharma,Delhi Capitals,1.0,7.891534391534391
+Sandeep Sharma,Delhi Daredevils,1.6,6.7333333333333325
+Sandeep Sharma,Gujarat Lions,1.5,8.0
+Sandeep Sharma,Gujarat Titans,1.2,7.066666666666667
+Sandeep Sharma,Kings XI Punjab,1.6,6.35
+Sandeep Sharma,Kolkata Knight Riders,0.8,8.616666666666667
+Sandeep Sharma,Lucknow Super Giants,1.6,8.266666666666667
+Sandeep Sharma,Mumbai Indians,1.5,7.587993421052632
+Sandeep Sharma,Punjab Kings,0.75,7.1875
+Sandeep Sharma,Rajasthan Royals,0.5555555555555556,8.083333333333334
+Sandeep Sharma,Rising Pune Supergiant,1.0,7.125
+Sandeep Sharma,Rising Pune Supergiants,1.5,6.5
+Sandeep Sharma,Royal Challengers Bangalore,1.6666666666666667,7.979066022544283
+Sandeep Sharma,Royal Challengers Bengaluru,1.0,11.616666666666667
+Sandeep Sharma,Sunrisers Hyderabad,1.25,9.0625
+Shahbaz Ahmed,Chennai Super Kings,0.5,10.0
+Shahbaz Ahmed,Delhi Capitals,0.4,12.733333333333334
+Shahbaz Ahmed,Gujarat Titans,1.0,9.104166666666666
+Shahbaz Ahmed,Kolkata Knight Riders,0.2,13.959999999999999
+Shahbaz Ahmed,Lucknow Super Giants,0.0,8.625
+Shahbaz Ahmed,Mumbai Indians,0.25,11.875
+Shahbaz Ahmed,Punjab Kings,0.5,9.027777777777779
+Shahbaz Ahmed,Rajasthan Royals,0.8333333333333334,9.98611111111111
+Shahbaz Ahmed,Royal Challengers Bengaluru,0.0,11.888888888888891
+Shahbaz Ahmed,Sunrisers Hyderabad,1.0,7.854166666666667
+Shakib Al Hasan,Chennai Super Kings,0.4444444444444444,9.231481481481481
+Shakib Al Hasan,Delhi Capitals,0.0,7.0
+Shakib Al Hasan,Delhi Daredevils,1.0,7.166666666666666
+Shakib Al Hasan,Gujarat Lions,0.5,11.5
+Shakib Al Hasan,Kings XI Punjab,0.7142857142857143,8.25
+Shakib Al Hasan,Kochi Tuskers Kerala,3.0,7.0
+Shakib Al Hasan,Kolkata Knight Riders,1.5,8.009469696969697
+Shakib Al Hasan,Mumbai Indians,1.0833333333333333,6.981944444444444
+Shakib Al Hasan,Pune Warriors,2.0,4.25
+Shakib Al Hasan,Rajasthan Royals,1.3,6.071052631578947
+Shakib Al Hasan,Rising Pune Supergiants,1.0,5.833333333333334
+Shakib Al Hasan,Royal Challengers Bangalore,0.6666666666666666,9.014957264957266
+Shakib Al Hasan,Sunrisers Hyderabad,1.5,6.930555555555556
+Shivam Mavi,Chennai Super Kings,0.5,8.604166666666666
+Shivam Mavi,Delhi Capitals,0.3333333333333333,15.027777777777779
+Shivam Mavi,Delhi Daredevils,1.5,10.75
+Shivam Mavi,Gujarat Titans,1.0,9.0
+Shivam Mavi,Kings XI Punjab,0.0,9.666666666666668
+Shivam Mavi,Lucknow Super Giants,1.0,12.5
+Shivam Mavi,Mumbai Indians,1.5,8.0
+Shivam Mavi,Punjab Kings,1.0,10.166666666666666
+Shivam Mavi,Rajasthan Royals,1.75,7.235197368421053
+Shivam Mavi,Royal Challengers Bangalore,0.5,8.0
+Shivam Mavi,Sunrisers Hyderabad,0.8,8.866666666666665
+Suyash Sharma,Chennai Super Kings,0.25,8.916666666666668
+Suyash Sharma,Delhi Capitals,0.5,5.875
+Suyash Sharma,Gujarat Titans,0.5,9.0
+Suyash Sharma,Kolkata Knight Riders,1.0,11.75
+Suyash Sharma,Lucknow Super Giants,0.0,12.5
+Suyash Sharma,Mumbai Indians,1.0,7.375
+Suyash Sharma,Punjab Kings,1.4,7.3
+Suyash Sharma,Rajasthan Royals,0.0,8.277777777777779
+Suyash Sharma,Royal Challengers Bangalore,3.0,7.5
+Suyash Sharma,Royal Challengers Bengaluru,0.0,16.5
+Suyash Sharma,Sunrisers Hyderabad,0.3333333333333333,11.666666666666666
+T Natarajan,Chennai Super Kings,1.8333333333333333,9.916666666666666
+T Natarajan,Delhi Capitals,1.6666666666666667,6.833333333333333
+T Natarajan,Delhi Daredevils,0.0,3.5
+T Natarajan,Gujarat Lions,0.5,9.666666666666668
+T Natarajan,Gujarat Titans,1.0,11.020833333333334
+T Natarajan,Kings XI Punjab,1.5,6.005434782608695
+T Natarajan,Kolkata Knight Riders,1.6,9.908333333333333
+T Natarajan,Lucknow Super Giants,0.75,8.604166666666666
+T Natarajan,Mumbai Indians,0.6,10.709999999999999
+T Natarajan,Punjab Kings,1.0,7.885714285714286
+T Natarajan,Rajasthan Royals,1.1428571428571428,8.571428571428571
+T Natarajan,Rising Pune Supergiant,1.0,8.666666666666666
+T Natarajan,Royal Challengers Bangalore,1.125,8.416666666666666
+T Natarajan,Royal Challengers Bengaluru,1.5,10.75
+TA Boult,Chennai Super Kings,1.0714285714285714,8.745408163265306
+TA Boult,Delhi Capitals,1.3076923076923077,8.032051282051283
+TA Boult,Gujarat Lions,1.0,9.875
+TA Boult,Gujarat Titans,1.0,8.229166666666666
+TA Boult,Kings XI Punjab,1.2857142857142858,9.267080745341616
+TA Boult,Kolkata Knight Riders,1.3636363636363635,8.068181818181818
+TA Boult,Lucknow Super Giants,1.7142857142857142,7.047619047619048
+TA Boult,Mumbai Indians,1.2727272727272727,8.652503293807642
+TA Boult,Punjab Kings,0.5555555555555556,9.198412698412698
+TA Boult,Rajasthan Royals,1.4444444444444444,8.50071225071225
+TA Boult,Royal Challengers Bangalore,1.4545454545454546,8.31060606060606
+TA Boult,Royal Challengers Bengaluru,1.0,9.416666666666666
+TA Boult,Sunrisers Hyderabad,1.5714285714285714,8.084792019574628
+TG Southee,Chennai Super Kings,0.0,8.375
+TG Southee,Delhi Capitals,1.3333333333333333,9.0
+TG Southee,Delhi Daredevils,0.0,8.5
+TG Southee,Gujarat Lions,0.0,7.75
+TG Southee,Gujarat Titans,3.0,6.0
+TG Southee,Kings XI Punjab,1.1666666666666667,8.375
+TG Southee,Kochi Tuskers Kerala,0.0,12.666666666666668
+TG Southee,Kolkata Knight Riders,0.7142857142857143,10.321428571428571
+TG Southee,Lucknow Super Giants,1.5,10.625
+TG Southee,Mumbai Indians,1.25,7.520833333333333
+TG Southee,Pune Warriors,1.0,8.25
+TG Southee,Punjab Kings,1.3333333333333333,10.833333333333334
+TG Southee,Rajasthan Royals,1.5,10.375
+TG Southee,Rising Pune Supergiant,1.0,8.5
+TG Southee,Rising Pune Supergiants,0.0,8.75
+TG Southee,Royal Challengers Bangalore,1.0,7.916666666666666
+TG Southee,Sunrisers Hyderabad,1.8571428571428572,7.607142857142857
+TM Dilshan,Chennai Super Kings,0.5,9.190705128205128
+TM Dilshan,Deccan Chargers,0.0,10.19047619047619
+TM Dilshan,Delhi Daredevils,0.0,11.0
+TM Dilshan,Kings XI Punjab,0.5,7.0
+TM Dilshan,Kochi Tuskers Kerala,0.5,7.75
+TM Dilshan,Kolkata Knight Riders,0.0,7.166666666666667
+TM Dilshan,Mumbai Indians,0.0,12.0
+TM Dilshan,Pune Warriors,0.0,12.0
+TM Dilshan,Rajasthan Royals,0.0,7.0
+TM Dilshan,Royal Challengers Bangalore,1.0,3.0
+TM Dilshan,Sunrisers Hyderabad,0.0,10.0
+TU Deshpande,Chennai Super Kings,0.6666666666666666,9.75
+TU Deshpande,Delhi Capitals,0.75,7.791666666666667
+TU Deshpande,Gujarat Titans,1.3333333333333333,11.133333333333333
+TU Deshpande,Kings XI Punjab,0.0,20.5
+TU Deshpande,Kolkata Knight Riders,0.8333333333333334,8.468253968253968
+TU Deshpande,Lucknow Super Giants,0.6666666666666666,8.430555555555555
+TU Deshpande,Mumbai Indians,1.6666666666666667,8.027777777777779
+TU Deshpande,Punjab Kings,2.3333333333333335,10.083333333333334
+TU Deshpande,Rajasthan Royals,2.25,9.125
+TU Deshpande,Royal Challengers Bangalore,3.0,11.25
+TU Deshpande,Royal Challengers Bengaluru,0.5,13.125
+TU Deshpande,Sunrisers Hyderabad,1.4,10.066666666666666
+UT Yadav,Chennai Super Kings,1.0555555555555556,8.106481481481481
+UT Yadav,Deccan Chargers,1.6666666666666667,8.666666666666666
+UT Yadav,Delhi Capitals,1.25,8.4375
+UT Yadav,Delhi Daredevils,1.1111111111111112,8.342592592592592
+UT Yadav,Gujarat Lions,0.5,8.75
+UT Yadav,Gujarat Titans,0.5,7.875
+UT Yadav,Kings XI Punjab,1.631578947368421,7.657894736842105
+UT Yadav,Kochi Tuskers Kerala,0.0,16.166666666666668
+UT Yadav,Kolkata Knight Riders,1.4444444444444444,7.781676413255361
+UT Yadav,Lucknow Super Giants,1.0,7.916666666666667
+UT Yadav,Mumbai Indians,1.0555555555555556,8.844444444444443
+UT Yadav,Pune Warriors,0.6,9.05
+UT Yadav,Punjab Kings,2.0,8.055555555555555
+UT Yadav,Rajasthan Royals,0.9285714285714286,9.114389233954451
+UT Yadav,Rising Pune Supergiant,1.0,7.541666666666667
+UT Yadav,Rising Pune Supergiants,1.0,8.0
+UT Yadav,Royal Challengers Bangalore,1.0666666666666667,10.026666666666667
+UT Yadav,Sunrisers Hyderabad,0.8421052631578947,9.07610939112487
+Umran Malik,Chennai Super Kings,0.3333333333333333,9.222222222222223
+Umran Malik,Delhi Capitals,0.0,14.0
+Umran Malik,Gujarat Titans,3.0,8.0
+Umran Malik,Kolkata Knight Riders,1.5,9.9375
+Umran Malik,Lucknow Super Giants,0.5,12.0
+Umran Malik,Mumbai Indians,1.0,12.083333333333332
+Umran Malik,Punjab Kings,2.6666666666666665,8.692307692307692
+Umran Malik,Rajasthan Royals,1.5,10.208333333333332
+Umran Malik,Royal Challengers Bangalore,0.6666666666666666,7.0
+V Kohli,Chennai Super Kings,0.16666666666666666,9.694444444444445
+V Kohli,Deccan Chargers,0.6666666666666666,7.717171717171716
+V Kohli,Delhi Daredevils,0.0,8.5
+V Kohli,Gujarat Lions,0.0,13.0
+V Kohli,Kings XI Punjab,0.0,10.125
+V Kohli,Kochi Tuskers Kerala,1.0,7.0
+V Kohli,Kolkata Knight Riders,0.0,9.75
+V Kohli,Mumbai Indians,0.0,8.75
+V Kohli,Rajasthan Royals,0.3333333333333333,6.155555555555556
+V Shankar,Chennai Super Kings,1.0,8.25
+V Shankar,Delhi Capitals,0.5,8.708333333333334
+V Shankar,Kolkata Knight Riders,0.25,10.25
+V Shankar,Mumbai Indians,2.0,6.333333333333334
+V Shankar,Punjab Kings,1.0,6.0
+V Shankar,Rajasthan Royals,0.3333333333333333,10.055555555555555
+V Shankar,Royal Challengers Bangalore,0.6666666666666666,11.0
+V Shankar,Sunrisers Hyderabad,0.0,14.0
+VG Arora,Chennai Super Kings,1.8,8.7
+VG Arora,Delhi Capitals,1.5,9.75
+VG Arora,Gujarat Titans,0.5,9.75
+VG Arora,Lucknow Super Giants,0.75,9.520833333333332
+VG Arora,Mumbai Indians,0.6666666666666666,10.138888888888888
+VG Arora,Punjab Kings,1.3333333333333333,9.855555555555556
+VG Arora,Rajasthan Royals,1.6666666666666667,11.916666666666666
+VG Arora,Royal Challengers Bangalore,0.0,11.0
+VG Arora,Royal Challengers Bengaluru,1.0,14.0
+VG Arora,Sunrisers Hyderabad,1.3333333333333333,8.882850241545894
+VR Aaron,Chennai Super Kings,1.25,9.704166666666666
+VR Aaron,Deccan Chargers,2.0,7.5
+VR Aaron,Delhi Capitals,0.0,10.0
+VR Aaron,Delhi Daredevils,1.75,5.4375
+VR Aaron,Gujarat Lions,0.0,10.125
+VR Aaron,Kings XI Punjab,0.6666666666666666,8.877616747181966
+VR Aaron,Kolkata Knight Riders,1.1111111111111112,9.05050505050505
+VR Aaron,Lucknow Super Giants,2.0,11.25
+VR Aaron,Mumbai Indians,1.0,9.918181818181818
+VR Aaron,Rajasthan Royals,0.0,14.470588235294116
+VR Aaron,Rising Pune Supergiants,0.0,10.333333333333334
+VR Aaron,Royal Challengers Bangalore,0.6,12.15
+VR Aaron,Sunrisers Hyderabad,1.2,9.209999999999999
+WD Parnell,Chennai Super Kings,1.0,9.125
+WD Parnell,Deccan Chargers,1.0,7.95
+WD Parnell,Delhi Capitals,1.0,7.0
+WD Parnell,Delhi Daredevils,0.5,12.5
+WD Parnell,Gujarat Titans,0.0,13.263157894736842
+WD Parnell,Kings XI Punjab,1.0,6.484848484848485
+WD Parnell,Kochi Tuskers Kerala,4.0,8.75
+WD Parnell,Kolkata Knight Riders,1.3333333333333333,7.375
+WD Parnell,Lucknow Super Giants,3.0,10.25
+WD Parnell,Mumbai Indians,1.2,5.835714285714286
+WD Parnell,Punjab Kings,1.0,10.666666666666666
+WD Parnell,Rajasthan Royals,2.0,6.281702898550725
+WD Parnell,Royal Challengers Bangalore,0.0,6.333333333333334
+WD Parnell,Sunrisers Hyderabad,0.0,9.125
+Washington Sundar,Chennai Super Kings,0.6666666666666666,7.305555555555556
+Washington Sundar,Delhi Capitals,1.0,9.208333333333334
+Washington Sundar,Delhi Daredevils,1.0,7.708333333333333
+Washington Sundar,Gujarat Lions,0.0,6.0
+Washington Sundar,Gujarat Titans,0.0,7.388888888888889
+Washington Sundar,Kings XI Punjab,0.5,8.0
+Washington Sundar,Kolkata Knight Riders,1.1111111111111112,8.935185185185185
+Washington Sundar,Lucknow Super Giants,1.0,8.333333333333334
+Washington Sundar,Mumbai Indians,0.6363636363636364,7.636363636363637
+Washington Sundar,Punjab Kings,0.5,7.75
+Washington Sundar,Rajasthan Royals,0.14285714285714285,10.482683982683982
+Washington Sundar,Royal Challengers Bangalore,1.0,3.5
+Washington Sundar,Sunrisers Hyderabad,0.5,7.270833333333334
+Y Venugopal Rao,Chennai Super Kings,1.0,8.75
+Y Venugopal Rao,Deccan Chargers,0.0,12.0
+Y Venugopal Rao,Delhi Daredevils,0.0,10.166666666666666
+Y Venugopal Rao,Kings XI Punjab,0.2,8.1
+Y Venugopal Rao,Kolkata Knight Riders,0.5,8.0
+Y Venugopal Rao,Mumbai Indians,1.0,8.291666666666666
+Y Venugopal Rao,Pune Warriors,0.0,14.0
+Y Venugopal Rao,Rajasthan Royals,1.0,13.25
+Y Venugopal Rao,Royal Challengers Bangalore,0.0,12.666666666666666
+YK Pathan,Chennai Super Kings,0.7333333333333333,7.953174603174603
+YK Pathan,Deccan Chargers,0.7777777777777778,7.046296296296297
+YK Pathan,Delhi Daredevils,0.125,7.422435897435897
+YK Pathan,Gujarat Lions,0.0,10.5
+YK Pathan,Kings XI Punjab,0.6,7.65
+YK Pathan,Kochi Tuskers Kerala,2.0,5.166666666666666
+YK Pathan,Kolkata Knight Riders,0.8,7.433333333333333
+YK Pathan,Mumbai Indians,0.0,7.791666666666666
+YK Pathan,Pune Warriors,1.3333333333333333,7.75
+YK Pathan,Rajasthan Royals,1.0,7.2666666666666675
+YK Pathan,Royal Challengers Bangalore,0.42857142857142855,8.797619047619047
+YK Pathan,Sunrisers Hyderabad,0.125,8.864583333333332
+YS Chahal,Chennai Super Kings,1.2105263157894737,7.359649122807018
+YS Chahal,Delhi Capitals,1.0,8.409090909090908
+YS Chahal,Delhi Daredevils,1.4444444444444444,7.7905982905982905
+YS Chahal,Gujarat Lions,1.6,8.183333333333334
+YS Chahal,Gujarat Titans,0.8571428571428571,8.260351966873705
+YS Chahal,Kings XI Punjab,1.6428571428571428,8.181122448979592
+YS Chahal,Kolkata Knight Riders,1.434782608695652,8.202898550724637
+YS Chahal,Lucknow Super Giants,1.1428571428571428,10.154761904761903
+YS Chahal,Mumbai Indians,1.4761904761904763,8.174603174603174
+YS Chahal,Punjab Kings,1.7142857142857142,8.678571428571429
+YS Chahal,Rajasthan Royals,1.2857142857142858,6.212719298245615
+YS Chahal,Rising Pune Supergiant,0.0,11.75
+YS Chahal,Rising Pune Supergiants,1.0,9.5
+YS Chahal,Royal Challengers Bangalore,1.2,7.4
+YS Chahal,Royal Challengers Bengaluru,1.4,8.233333333333334
+YS Chahal,Sunrisers Hyderabad,1.3181818181818181,8.193181818181818
+Yash Dayal,Chennai Super Kings,1.0,9.869047619047619
+Yash Dayal,Delhi Capitals,1.5,10.138729977116705
+Yash Dayal,Gujarat Titans,0.6666666666666666,6.805555555555556
+Yash Dayal,Kolkata Knight Riders,1.2,12.316666666666666
+Yash Dayal,Lucknow Super Giants,1.0,10.888888888888891
+Yash Dayal,Mumbai Indians,2.0,11.5
+Yash Dayal,Punjab Kings,0.6666666666666666,8.092948717948717
+Yash Dayal,Rajasthan Royals,1.5714285714285714,9.869047619047619
+Yash Dayal,Royal Challengers Bangalore,0.5,9.25
+Yash Dayal,Sunrisers Hyderabad,0.6,8.9
+Yash Thakur,Chennai Super Kings,0.75,10.4375
+Yash Thakur,Delhi Capitals,1.0,7.75
+Yash Thakur,Gujarat Titans,2.5,9.91304347826087
+Yash Thakur,Kolkata Knight Riders,1.3333333333333333,11.444444444444445
+Yash Thakur,Mumbai Indians,2.5,9.25
+Yash Thakur,Punjab Kings,4.0,9.652173913043478
+Yash Thakur,Rajasthan Royals,0.5,13.416666666666666
+Yash Thakur,Royal Challengers Bangalore,1.0,6.0
+Yash Thakur,Royal Challengers Bengaluru,2.0,9.5
+Yash Thakur,Sunrisers Hyderabad,0.5,12.072916666666666
+Yuvraj Singh,Chennai Super Kings,0.25,8.270833333333334
+Yuvraj Singh,Deccan Chargers,1.4285714285714286,8.5
+Yuvraj Singh,Delhi Daredevils,0.5714285714285714,7.738945578231293
+Yuvraj Singh,Gujarat Lions,0.0,6.5
+Yuvraj Singh,Kings XI Punjab,0.16666666666666666,10.25
+Yuvraj Singh,Kochi Tuskers Kerala,0.0,12.0
+Yuvraj Singh,Kolkata Knight Riders,0.3333333333333333,9.75
+Yuvraj Singh,Mumbai Indians,0.6,6.275
+Yuvraj Singh,Rajasthan Royals,0.6,9.35
+Yuvraj Singh,Rising Pune Supergiants,0.0,10.0
+Yuvraj Singh,Royal Challengers Bangalore,0.42857142857142855,8.261904761904763
+Yuvraj Singh,Sunrisers Hyderabad,0.3333333333333333,6.666666666666667
+Z Khan,Chennai Super Kings,1.3333333333333333,7.708333333333333
+Z Khan,Deccan Chargers,1.8571428571428572,7.071428571428571
+Z Khan,Delhi Daredevils,0.875,9.447916666666666
+Z Khan,Gujarat Lions,0.3333333333333333,8.75
+Z Khan,Kings XI Punjab,1.2142857142857142,7.420238095238095
+Z Khan,Kochi Tuskers Kerala,1.0,6.75
+Z Khan,Kolkata Knight Riders,1.4,8.101159951159952
+Z Khan,Mumbai Indians,1.0,7.125
+Z Khan,Pune Warriors,1.3333333333333333,7.333333333333333
+Z Khan,Rajasthan Royals,0.875,6.65625
+Z Khan,Rising Pune Supergiant,2.5,6.458333333333334
+Z Khan,Rising Pune Supergiants,0.0,6.333333333333334
+Z Khan,Royal Challengers Bangalore,1.3,6.725
+Z Khan,Sunrisers Hyderabad,0.75,7.625
