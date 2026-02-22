@@ -87,9 +87,10 @@ The dashboard will open at `http://localhost:8501`.
 |---|---|
 | Mean Baseline | 0.816 |
 | Rolling Avg Baseline | 0.879 |
-| **Random Forest** | **0.846** |
-| XGBoost | 0.880 |
+| **Random Forest** | **0.115** |
+| XGBoost | 0.121 |
 
 ## Dataset
 
 IPL ball-by-ball dataset from Kaggle covering seasons 2008–2025. Includes match metadata, player statistics, and ball-level events.
+
