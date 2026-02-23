@@ -173,26 +173,26 @@ Improve transparency of ensemble models
 
 CPPREDICTION/
 │
-├── DATA1/
+├── DATA1/                     # Raw and processed datasets
 │   ├── bowler_dataset.csv
-│   ├── deliveries_cleaned.csv
 │   ├── deliveries.csv
+│   ├── deliveries_cleaned.csv
 │   ├── final_dataset.csv
-│   ├── matches_cleaned.csv
-│   └── matches.csv
+│   ├── matches.csv
+│   └── matches_cleaned.csv
 │
-├── models1/
+├── models1/                   # Trained ML models and pipelines
 │   ├── feature_pipeline.pkl
 │   ├── lgbm_model.joblib
 │   ├── model.joblib
 │   ├── wicket_model.joblib
 │   └── xgb_model.joblib
 │
-├── NOTEBOOKS/
+├── NOTEBOOKS/                 # Jupyter notebooks for development
 │   ├── 1.EDA.ipynb
 │   ├── 2.featureengg.ipynb
 │   └── 3.modeltraining.ipynb
 │
-├── data_cleaning1.py
-├── streamlit_app1.py
-└── README.md
+├── data_cleaning1.py          # Data preprocessing script
+├── streamlit_app1.py          # Streamlit dashboard application
+└── README.md                  # Project documentation
