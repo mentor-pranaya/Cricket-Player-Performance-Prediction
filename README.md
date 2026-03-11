@@ -36,6 +36,6 @@ IPL_Performance_Prediction/
 
 - [x] **Week 1:** Data Acquisition & Exploratory Data Analysis (EDA)
 - [x] **Week 2-4:** Feature Engineering & Preprocessing
-- [ ] **Week 5-6:** Model Development (Random Forest, XGBoost)
-- [ ] **Week 7-8:** Dashboard Deployment
+- [x] **Week 5-6:** Model Development (Random Forest, XGBoost)
+- [x] **Week 7-8:** Dashboard Deployment
 
